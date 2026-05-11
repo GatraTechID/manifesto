@@ -2,7 +2,7 @@
 Adalah kumpulan Aset Digital (metodologi, terapan, studi kasus, contoh, dan lainnya) dari Gatra Tech ID dan lokalSEO ID 
 sebagai Sumber Informasi Digital unttuk Publik terutama pada Sektor Digital Marketing dan SEO.
 
-# Identtitas 
+# Identitas 
 - Gatra Tech ID
 - lokalSEO ID
 - CV Gatra Eka Teknik
