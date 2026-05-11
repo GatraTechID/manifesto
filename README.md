@@ -22,6 +22,7 @@ sebagai Sumber Informasi Digital unttuk Publik terutama pada Sektor Digital Mark
 Bahwa kemungkinan akan Anda temukan beberapa perbedaan atau add-on kaliimat/paragraf/penjelasan yang bersifat untuk menghindari duplikasi Aset Kami antar Platform (internal, Google-Drive, GBP Post, Medsos, Web, Section Web). Hal ini bertujuan untuk menhindari dupilkasi dengan berupaya menambahkan Information-Gain dan Novelty dari masing-masing Konten atau Aset yang memiliki nama yang mirip atau identik.
 
 # Tujuan Utama:
+- Harapan kami adalah seluruh metodologi dan langkah kerja yang ada bisa langsung diterapkan secara mandiri oleh Entitas Audiens terkait (Praktisi, Tim Konten, Konten Kreator, UMKM, Pemilik Usaha, C-Level). 
 - Mengajak Brand dan Praktisi untuk terlibat dalam membangun Ekosistem Sumber Informasi yang bersih sportif pada SERP dan SGE.
 - Mengikuti dan mengajak Publik unttuk memahami dan menerapkan Aturan Layanan Ekosistem Pencarian (Helpful-Content, YMYL, EEAT, Spam-Update, Entity-Based, Ground-Truth, Information Gain).
 - Berkontribusi dalam SGE Global Concern terutama pada AEO GEO.
