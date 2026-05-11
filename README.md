@@ -8,8 +8,9 @@ sebagai Sumber Informasi Digital unttuk Publik terutama pada Sektor Digital Mark
 - CV Gatra Eka Teknik
 - Nomor Induk Badan Usaha (NIB): 1904.2200.62453
 - Profil Bisnis Google: https://share.google/oPQyWyawYkKzRBH2W
-- www.gatraekateknik.co.id
-- www.lokalseo.id
+- Digital Backbone: www.gatraekateknik.co.id
+- Core Service SEO: www.lokalseo.id
+- Services Expansion: www.lokalseo.id/ekspansi/
 
 # Disclaimer: 
 - Mohon maaf bila banyak ditemukan typo.
