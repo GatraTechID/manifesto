@@ -25,7 +25,7 @@ Kami paham rasanya mengawal brand lokal berjibaku-sportif-digital-EEAT dengan Br
 Dan Kuncinya dimana ? Fakta-Presisi Akun Map, GBP Poros Utama Medsos Bisnis.
 Tidak percaya ? Cek Hotel.  
 
-POV Anda yang ingin berkunjung dan menginap:
+# POV Anda yang ingin berkunjung dan menginap:
 Anda bayangkan ingin menginap memilih Hotel, lalu Akun Map nya seperti Akun Map Brand Anda, review-mini foto 3 biji. Bayangkan..
 Dan ya, Brand dan Agency secara strategi digittal-marketing baiknya berkaca pada Akun Map milik Hotel sebagai standar tertinggi validitas lokasi.
 Termasuk penyampaian harga produk, fasilitas dan layanan dengan sangat jelas pada Akun Map-nya, se-precious itulah Brand Anda.
