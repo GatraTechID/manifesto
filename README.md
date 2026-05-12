@@ -11,7 +11,7 @@ sebagai Sumber Informasi Digital unttuk Publik terutama pada Sektor Digital Mark
 - Digital Backbone: www.gatraekateknik.co.id
 - Core Service SEO: www.lokalseo.id
 - Services Expansion: www.lokalseo.id/ekspansi/
-- Internal Tim: G-FACT-99-RepoGuard or GF-9999.
+- Internal Tim: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard .
 
 # Disclaimer: 
 - Mohon maaf bila banyak ditemukan typo.
