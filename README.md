@@ -1,5 +1,5 @@
 # Gatra Tech ID & lokalSEO ID - Manifesto Hub
-Rujukan teknis Visibilitas Digital jalur kepatuhan Aturan Layanan Sistem Pencari. EEAT itu Supremasi Legacy bukan Komedi. 
+Rujukan Teknis Visibilitas Digital jalur kepatuhan Aturan Layanan Sistem Pencari. EEAT itu Supremasi Legacy bukan Komedi. 
 
 Metodologi ini terbuka secara transparan untuk Brand Owner, Pemilik Usaha, Agency, dan Praktisi.
 
