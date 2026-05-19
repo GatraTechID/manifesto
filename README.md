@@ -57,5 +57,5 @@ Kami siap membantu dan memberi dukungan pada Level Layanan Bisnis Professional.
 **Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
 **Core Engine:** AI-Driven Digital Authority Platform & Regional Expansion Hub.
 
-Tim Taktis: Handler-TERY.<br>
-Provision: X-777-Alpha.
+Tim Taktis: Handler-TERY .<br>
+Patrol: X-777-IKN-IDN-BorderControl .
