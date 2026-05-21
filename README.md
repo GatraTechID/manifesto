@@ -66,6 +66,7 @@ Kami siap membantu dan memberi dukungan pada Level Layanan Bisnis Professional.
 ## Layanan
 [Layanan SEO dan Lokal SEO IKN]( https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN)
 
+## Penutup
 **Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
 **Core Engine:** AI-Driven Digital Authority Platform & Regional Expansion Hub.
 
