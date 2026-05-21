@@ -6,9 +6,7 @@ SEO On-Fact berbasis Fakta-Manfaat serta Ground-Truth Digital Architecture yang 
 
 ### SEO IKN 
 adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas Operasional ke Algoritma Aturan Layanan Google untuk menempatkan Brand Anda ke Titik Layak Visibilitas Digital di Kompetisi Digital-Spatial Nasional di IKN. Ground-Truth Integrity System.
-
-Cek Manifesto IKN: https://github.com/GatraTechID/manifesto/blob/main/Manifesto%20SEO%20Enterprise%20(Ready)%20IKN%201.0.md <br>
-Layanan SEO dan Lokal SEO IKN: https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN
+- [Cek Manifesto IKN](https://github.com/GatraTechID/manifesto/blob/main/Manifesto%20SEO%20Enterprise%20(Ready)%20IKN%201.0.md)
 
 ### SEO Enterprise & Industrial Hardware
 adalah seperti Search Engine Optic Network sebagai jalur Kabel Fiber Optic Invisible yang menghubungkan Node Ground-Truth seluruh Cabang-Kota Brand Anda di Indonesia berskala Enterprise
@@ -18,7 +16,7 @@ lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat 
 ##### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
 - SEO On-Fact Enterprise Masterplan Layer 1 - LED Display (dalam proses filter).
-- Actionable SEO On-Fact Masterplan Layer 1 - LED Display
+-  [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) <br>
 
 <br><br>
 ## DALAM PROSES:
@@ -64,6 +62,9 @@ Bahwa kemungkinan akan Anda temukan beberapa perbedaan atau add-on kalimat/parag
 ## Penggunaan
 Dokumentasi ini bersifat publik dan boleh diterapkan oleh Praktisi atau Brand. 
 Kami siap membantu dan memberi dukungan pada Level Layanan Bisnis Professional.
+
+## Layanan
+[Layanan SEO dan Lokal SEO IKN]( https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN)
 
 **Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
 **Core Engine:** AI-Driven Digital Authority Platform & Regional Expansion Hub.
