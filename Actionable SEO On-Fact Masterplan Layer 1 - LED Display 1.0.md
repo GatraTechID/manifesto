@@ -2,7 +2,7 @@
 
 Adalah upaya kami mengurai langkah kerja dari Dokumen Masterplan menjadi satu dokumen ringkas agar dapat langsung dikerjakan oleh Pembaca 
 dalam upaya percepatan optimasi dan kontribusi kebersihan ruang digital informasi publik sambil menaikkan visibilitas Brand Anda berdasar fakta manfaat.
-Disini akan dibagi menjadi 4 Layer Penindak yaitu Pengguna / Pemilik GBP (Pemilik Akun GBP), Tim Lapangan, Admin Medsos atau Content Creator, Perusahaan, Web Developer, Agency atau Praktisi SEO. 
+Disini akan dibagi menjadi 6 Layer Penindak yaitu Pengguna / Pemilik GBP (Pemilik Akun GBP), Tim Lapangan, Admin Medsos atau Content Creator, Perusahaan, Web Developer, Agency atau Praktisi SEO. 
 
 Studi Kasus: LED Display Industrial Videotron.
 
