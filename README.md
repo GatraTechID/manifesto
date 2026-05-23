@@ -12,11 +12,7 @@ SEO On-Fact berbasis Fakta-Manfaat serta Ground-Truth Digital Architecture yang 
 
 ## DAFTAR ISI:
 
-### SEO IKN 
-adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas Operasional ke Algoritma Aturan Layanan Google untuk menempatkan Brand Anda ke Titik Layak Visibilitas Digital di Kompetisi Digital-Spatial Nasional di IKN. Ground-Truth Integrity System.
-- [Cek Manifesto IKN](https://github.com/GatraTechID/manifesto/blob/main/Manifesto%20SEO%20Enterprise%20(Ready)%20IKN%201.0.md)
-
-### SEO Enterprise & Industrial Hardware
+### SEO ENTERPRISE & Industrial Hardware
 adalah seperti Search Engine Optic Network sebagai jalur Kabel Fiber Optic Invisible yang menghubungkan Node Ground-Truth seluruh Cabang-Kota Brand Anda di Indonesia berskala Enterprise
 lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat publik setelah melewati Approval Layer Proxy dari T.O.S Ekosistem Pencarian (THE ALGORITHMIC VERDICT). <br>
 
@@ -34,6 +30,11 @@ Lebih Detailnya (dalam proses).
 - Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
 - SEO On-Fact Enterprise Masterplan Layer 1 - LED Display (dalam proses filter).
 -  [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) <br>
+
+
+### SEO IKN 
+adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas Operasional ke Algoritma Aturan Layanan Google untuk menempatkan Brand Anda ke Titik Layak Visibilitas Digital di Kompetisi Digital-Spatial Nasional di IKN. Ground-Truth Integrity System.
+- [Cek Manifesto IKN](https://github.com/GatraTechID/manifesto/blob/main/Manifesto%20SEO%20Enterprise%20(Ready)%20IKN%201.0.md)
 
 <br><br>
 ## DALAM PROSES:
