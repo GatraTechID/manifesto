@@ -63,10 +63,6 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - Services Expansion: www.lokalseo.id/ekspansi/
 - Internal Tim: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard.
 
-## DISCLAIMER: 
-- Tidak bermaksud menyinggung entitas atau platform tertentu.
-- Seluruh Brand/Entitas/Platform/Person memiliki Hak Masing-Masing dalam menentukan Strategi Penjualan ataupun Konsumsi Sumber Informasi selama itu tidak melanggar hukum yang berlaku pada negaranya berada.
-
 ## Perbedaan Kalimat antar Platform pada Aset Digital Kami.
 Bahwa kemungkinan akan Anda temukan beberapa perbedaan atau add-on kalimat/paragraf/penjelasan yang bersifat untuk menghindari duplikasi Aset Kami antar Platform (internal, Google-Drive, GBP Post, Medsos, Web, Section Web). Hal ini bertujuan untuk menghindari dupilkasi dengan berupaya menambahkan Information-Gain dan Novelty dari masing-masing Konten atau Aset yang memiliki nama yang mirip atau identik.
 
