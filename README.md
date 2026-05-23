@@ -6,7 +6,7 @@ SEO On-Fact berbasis Fakta-Manfaat serta Ground-Truth Digital Architecture yang 
 - Tidak bermaksud menyudutkan entitas atau brand tertentu.
 - Seluruh platform digital dan brand memiliki hak masing-masing dalam menerapkan strategi bisnisnya.
 - Masyarakat memiliki hak individu dalam memilih platform sumber informasi serta reaksi interaksinya selama tidak melanggar hukum.
-- Segala definisi yang kami sebuttkan bukan berdasar KBBI atau bahasa baku melainkan hasil observasi teknis dan terapan lapangan.
+- Segala definisi yang kami sebutkan bukan berdasar KBBI atau bahasa baku melainkan hasil observasi teknis dan terapan lapangan.
 - Kami berusaha maksimal untuk mengurangi jargon marketing sambil tetap mengedepankan jargon teknis yang fungsinya kami anggap sebagai edukasi atau strategi bisnis.
 - Kami berupaya agar konten kami tetap bermanfaat dan memiliki kadar "actionable".
 
