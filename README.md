@@ -29,7 +29,7 @@ Lebih Detailnya (dalam proses).
 ##### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
 - SEO On-Fact Enterprise Masterplan Layer 1 - LED Display (dalam proses filter).
--  [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) <br>
+-  [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
 
 ### SEO IKN 
