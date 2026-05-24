@@ -11,12 +11,14 @@ Technical Reference for Digital Visibility via Search Engine Terms of Service (T
 - We strictly endeavor to ensure our content remains highly beneficial and maintains a rigorous level of actionable information gain.
 
 ## TABLE OF CONTENTS:
-- Coming Soon
+- Coming Soon.
 
 ## Coming Soon:
-- Entity-Hub
-- VeriSight-Specs
-- SGE-Global-Concern
+- Entity-Hub.
+- VeriSight-Specs.
+- SGE-Global-Concern.
+- Actionable SEO On-Fact Masterplan Layer 1.
+- SEO On-Fact Masterplan Layer 1.
 
 
 
