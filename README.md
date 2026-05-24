@@ -54,8 +54,12 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 ### Profil Bisnis Google
 Kami akan mengupas information gain pada konteks ini dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
 
-### Manifesto Bahasa Inggris
-- SEO Enterprise & Actionable SEO Masterplan
+### SGE Global Concern
+Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era.
+
+## Manifesto Berbahasa Inggris
+- SEO Enterprise & Actionable SEO Masterplan.
+- SGE Global Concern.
 
 ## IDENTITAS 
 - Gatra Tech ID
