@@ -23,7 +23,7 @@ lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat 
 4. BACKLINK & KLAIM OTORITAS MEDIA NASIONAL (SGE Global Concern)
 5. MANIFESTO ASET DIGITAL OPERASIONAL
 6. CATATAN KRITIS AKHIR <br>
-Lebih Detailnya (dalam proses).
+Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 
 #### STUDI KASUS:
 ##### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
