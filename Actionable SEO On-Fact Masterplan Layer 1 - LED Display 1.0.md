@@ -21,7 +21,7 @@ Berikut dibawah adalah langkah yang bisa dapat segera dilakukan.
 ### Layer Pengguna (Admin GBP) atau Pemilik Usaha Langsung: 
 - Mengambil alih Akun Map (bila belum).
 - Mengumpulkan atau meminta dan Membalas Review. permintaan review wajib berdasar fakta transaksi.
-- Membuat Posting Info Terbaru oleh Pemilik.
+- Membuat Posting Info Terbaru oleh Pemilik. Contoh Skenario bisa menggunakan referensi bagian ini "Contoh Skenario GBP Info Terbaru oleh Pemilik" dibawah.
 - Mengarahkan Pengunjung atau Klien untuk UGC/Posting (kunjungan kantor, foto unit).
 - Melengkapi parameter pada GBP  (terutama NAP, layanan dan produk utama, deskripsi bisnis). Termasuk jam dan hari kerja, rute masuk dari lobi bila kantor Anda di apartemen. 
 - Menghubungkan GBP ke Web dan Akun Medsos, utamakan website.
@@ -81,7 +81,7 @@ Setelah menerima dokumen Audit dan Masterplan maka langkah yang bisa dilakukan y
 ### Catatan Utama Konten: 
 - Perhatikan dan jaga tiik-titik privasi misalnya plat nomor kendaraan, dokumen pribadi, telepon dan email pelanggan pada dokumen, rahasia perusahaan secara umum.
 - Keyword Awarenss bukan Keyword Research artinya biarkan keyword menjadi natural seperti dalam fungsi manfaat dan studi kasusnya. 
-- Keyword utama seperi niche, ceruk psaar, sektor industri, product lines uttamakan berada di judul posting dan menyebar secara natural.
+- Keyword utama seperi niche, ceruk psaar, sektor industri, product lines utamakan berada di judul posting dan menyebar secara natural.
 
 ### Cakupan Utama: 
 - Identitas Utama Bisnis (nama, sejarah, lokasi, pengalaman, kapasitas, kompetensi).
@@ -126,6 +126,82 @@ Setelah menerima dokumen Audit dan Masterplan maka langkah yang bisa dilakukan y
 - Lakukan observasi dengan bijak dengan visi utama adalah "Apakah Brand saya sudah memberikan Informasi Bermanfaat untuk Publik ??". 
 - Silahkan menggunakan beberapa peringkat terpisah atau meminjam perangkat kerabat atau famili untuk menghindari istilah bubble personalization.
 - Kegiatan Observasi SERP dan Audit menggunakan perangkat langsung tanpa Tools Tambahan (Se**ush, dan lainnya) sangat kami rekomendasikan, istilah kami: On-Fact and Direct Visual Audit.
+
+ 
+## Contoh Skenario GBP Info Terbaru oleh Pemilik
+
+Format Skenario Terapan Penerbitan Konten Sebagai Aset Digital Berbasis Fakta. 
+Mohon diperhatikan level unik informasi pada judul atau konteks yang mirip. 
+Pada setiap Artikel, Post GBP wajib upayakan ada Foto/Video bukti nyata dari perangkat HP GPS Akif dan Geo-Tagging Meta Tag File.
+Baiknya minimal 3 file foto misal: sebelum, proses dan sesudah. 
+Diingatkan kembali agar tidak melakukan edit berlebihan, foto atau video raw/real itu sangat direkomendasikan. Ini berbeda dengan konten Medsos.
+
+### Produk
+- nama produk, fitur utama, range harga, spek, skenario terapan terbaik.
+- foto unit depan, belakang dan saat nyala. Video unit.
+- manfaat utama.
+- ketersediaan produk, stok bila ada, kota ketersediaan, sertakan nama distributor, CTA. 
+
+### Layanan
+- nama layanan misal jasa pengiriman atau instalasi tambahan.
+- list terapan lokasi atau sektor industri, perbedaan antar layanan atau kota. 
+- manfaat benefit pelanggan atas layanan ini. 
+- Bukti foto video pengerjaan yang pernah dilakukan, CTA. 
+
+### Studi Kasus 
+- judul, masalah utama, solusi yang diberikan, manfaat bagi pelanggan atau industri. 
+- contoh Studi Kasus: Lokasi Instalasi yang sulit, Ketinggian Spesifik, Kelembaban Ruangan atau Daerah, Tata letak posisi dengan sinar matahari, Lebar Space Titik Instalasi. 
+- Dapat pula penyampaian dengan style penulisan IMRAD.
+
+### Dokumentasi Lapangan
+Sama seperti poin-poin skenario posting lainnya, Dokumentasi Lapangan ini sangat penting karena sebagai tambahan bahan pertimbangan pelanggan.
+- Judul, Klien, Type Unit, tantangan utama. 
+- Proses Unboxing unit, instalasi, dan finishing. 
+- Semuanya akan sangat baik bila ada before after.
+- Dapat diperluas hingga type unit, lokasi yang berbeda, sektor industri yang berbeda.
+
+### Launching Produk Baru 
+- Nama Produk, SKU, Kelebihan Utama, Evolusi atau fitur yang melebihi seri sebelumnya.
+- Diciptakan untuk sektor spesifik apa, manfaat industrial nya.
+- Ketersediaan barang dan Kota tersedia, fitur garansi dan jaminan service-nya. 
+- CTA.
+
+### Launching Event Internal
+- Biasanya terkait launching produk, kolaborasi, gathering, tour produk.
+- Jadwal Event, Tujuan event, entitas peserta.
+- Detail rincian acara event, manfaat publik atas event tersebut.
+- Note: sangat baik bila menyertakan parameter sesuai fakta misal sektor industri, kota, brand klien, lokasi acara.
+
+### Registrasi Hubungan Bisnis Baru
+- Terkait antara lain pengenalan entitas baru: cabang, distributor, Authorized partner service atau reseller, rekanan pengadaan. 
+- Atau Kontrak proyek: pemda, pemkot, BUMN atau Industri Milik Negara. Rekanan dengan Advertiser Nasional atau Media Nasional.
+- Command Center skala industri atau Kepolisian.
+
+### Logistik Barang Masuk atau Pengiriman Keluar.
+Ini penting karena termasuk Skala Operasional dan Kompetensi Bisnis. 
+- Asal Produk, jumlah unit, tujuannya apakah stok ulang atau untuk proyek tertentu. 
+- Bagaimana proses logistiknya, tes unboxing dan prosedur testing unit saat baru diterima.
+- Tes uji nyala 1 unit atau beberapa unit.
+
+### Out Of The Box oleh Tim Onsite atau Content Writer
+- Tips dan trik langsung dari tim Instalatir terhadap perbedaan medan Instalasi dan ketinggian. 
+- Tips dan Trik dasar cara perawatan unit.
+- Kondisi unit yang terpasang saat nyala pada siang atau malam hari.
+- Ikut serta dalam proses instalasi atau perbaikan tanpa menggangu proses dan fokus pada dokumentasi kegiatan.
+- Bahwa terapan diatas akan sangat memperkaya artikel atau aset karena bila 1 product lines saja akan menghasilkan banyak Konten-Bermanfaat.
+
+### Out Of The Box oleh Tim Data Analis
+- Komparasi Produk dan Spek. 
+- Komparasi dari sisi bahan dasar produk baik frame dan display.
+- Komparasi Perbedaan Harga antara product lines satu dan dua pada sektor use-case tertentu. 
+- In-depth Analisis atas Unit dan Faktor Cuaca dari sisi bahan frame produk dan bahan panel LCD.
+
+Tips Penting: 
+Bahwa setiap postingan dengan bukti yang valid dan penyampaian sesuai Aturan Layanan Google maka parameter di dalamnya akan otomatis mengunci fungsi trust algoritmik pada brand Anda.
+Parameter yang dimaksud: Kota, Niche, Product Lines, Sektor Industri. 
+
+Note: 
+Contoh skenario diatas bisa langsung di sebar-terapkan untuk platform digital lainnya dan  akan sangat mudah dibedah lalu diolah ulang oleh tim praktisi content Writer atau kreator konten medsos.
 
 ## Penutup: 
 Demikian Actionable Layer 1 ini kami sampaikan denngan harapan dapat segera dilakukan secara mandiri oleh Pelanggan dalam rangka kontribusi pada Sumber Informasi dan Optimasi Visibilitas Brand Anda.
