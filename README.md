@@ -46,11 +46,16 @@ Brand Awareness berbasis Sportifitas Fakta. Mengejar Titik Layak Visibilitas Dig
 ### SEO Jakarta
 Jasa SEO Jakarta adalah 
 bukan lagi perkara jasa layanan atau titel terbaik dan pakar melainkan Evolusi Integritas Agency mengawal aset digital Brand Internasional tetap berada di jalur Kepatuhan terhadap Aturan Layanan Google 
-sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digittal Pulau dan Regional Negeri mealalui Profil Bisnis Google. 
+sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digital Pulau dan Regional Negeri mealalui Profil Bisnis Google. 
 GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai jaminan Brand Awareness.
 SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
 Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
 
+### Profil Bisnis Google
+Kami akan mengupas information gain pada konteks ini dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
+
+### Manifesto Bahasa Inggris
+- SEO Enterprise & Actionable SEO Masterplan
 
 ## IDENTITAS 
 - Gatra Tech ID
@@ -70,7 +75,7 @@ Bahwa kemungkinan akan Anda temukan beberapa perbedaan atau add-on kalimat/parag
 - Dokumentasi Langkah Kerja Sederhana yang penyampaiannya diusahakan dapat langsung dipraktekkan (Actionable Helpful Content / Actionable Gain).
 - Harapan kami adalah seluruh metodologi dan langkah kerja yang ada bisa langsung diterapkan secara mandiri oleh Entitas Audiens terkait (Praktisi, Tim Konten, Konten Kreator, UMKM, Pemilik Usaha, C-Level). 
 - Mengajak Brand dan Praktisi untuk terlibat dalam membangun Ekosistem Sumber Informasi yang bersih sportif pada SERP dan SGE.
-- Mengikuti dan mengajak Publik untuk memahami dan menerapkan Aturan Layanan Ekosistem Pencarian (Helpful-Content, YMYL, EEAT, Spam-Update, Entity-Based, Ground-Truth, Information Gain, Actionable Informattion Gain).
+- Mengikuti dan mengajak Publik untuk memahami dan menerapkan Aturan Layanan Ekosistem Pencarian (Helpful-Content, YMYL, EEAT, Spam-Update, Entity-Based, Ground-Truth, Information Gain, Actionable Informaion Gain).
 - Berkontribusi dalam SGE Global Concern terutama pada AEO GEO.
 
 ## Penggunaan
