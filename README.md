@@ -68,8 +68,7 @@ Menjadikan SEO lebih presisi dengan meletakkan alur natural operasional dan komp
 Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era.
 
 ## Manifesto Berbahasa Inggris
-- SEO Enterprise & Actionable SEO Masterplan.
-- SGE Global Concern.
+ [ Manifesto Berbahasa Inggris](enu/README.md)
 
 ## IDENTITAS 
 - Gatra Tech ID
@@ -102,9 +101,15 @@ Kami mampu membantu Brand Anda secara langsung atau Klien Anda secara Zero-Footp
 
 Salam Sukses Selalu :) <br><br>
 
-Halaman Layanan: [Layanan SEO dan Lokal SEO IKN]( https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN)
+## Halaman Layanan: 
+[Layanan SEO dan Lokal SEO IKN]( https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN)
+<br>
+PENTING: 
+Etika Collision Avoidance yaitu atas dasar Privasi Data, Penjagaan KPI serta Kebersihan Data maka kami tidak melayani Pelanggan dengan Niche Identik di Region yang sama dalam satu kontrak aktif baik white-label atau langsung. 
 
-**Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
+
+
+#### **Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
 **Core Engine:** AI-Driven Digital Authority Platform & Regional Expansion Hub.
 
 Nat. Patrol: X-777-IKN-IDN-BorderControl .<br>
