@@ -68,7 +68,7 @@ Ingat: Event Besar yang bukan pengepungan/manipulasi informasi atau keyword. Per
 ## MANIFESTO ASET DIGITAL
 adalah Halaman Web atau Konten yang mewakilkan Brand Anda baik secara produk atau layanan di Ekosistem Pencarian bagi publik atau calon klien. 
 - Memiliki fakta-manfaat atau nilai-informasi-unik atau actionable-helpful value yang lebih dibanding Kompetitor Anda.
-- Terbit secara natural berdasar list layanan atau produk serta alur bisnis (kompetensi, dokumentasi operasional regional atau sektoral) yang akan otomatis mengunci Keyword di SERP secara sportrif T.O.S.
+- Terbit secara natural berdasar list layanan atau produk serta alur bisnis (kompetensi, dokumentasi operasional regional atau sektoral) yang akan otomatis mengunci Keyword di SERP secara sportif T.O.S.
 - Bukan berdasar audit dan Keyword Research atau Backlink yang berlebihan. 
 
 ## STRUKTUR REKOMENDASI ASET DIGITAL: 
