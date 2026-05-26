@@ -123,7 +123,7 @@ Setelah menerima dokumen Audit dan Masterplan maka langkah yang bisa dilakukan y
 - Observasi Kompetitor: cukup pada skala per bulan dan natural temuan saja. Pada saat melakukan audit rutin dan observasi rutin Anda akan melihat pergerakan Visibiltas Brand Anda dibanding dengan kompetitor. 
 
 ## Tips Observasi: 
-- Lakukan observasi dengan bijak dengan visi utama adalah "Apakah Brand saya sudah memberikan Informasi Bermanfaat untuk Publik ??". 
+- Lakukan observasi secara bijak dengan visi utama adalah "Apakah Brand saya sudah memberikan Informasi Bermanfaat untuk Publik ??". 
 - Silahkan menggunakan beberapa perangkat berbeda atau meminjam perangkat kerabat atau famili untuk menghindari istilah bubble personalization.
 - Kegiatan Observasi SERP dan Audit menggunakan perangkat langsung tanpa Tools Tambahan (Se**ush, dan lainnya) sangat kami rekomendasikan, istilah kami: On-Fact and Direct Visual Audit.
 
