@@ -4,7 +4,7 @@ SEO On-Fact berbasis Fakta-Manfaat serta Ground-Truth Digital Architecture yang 
 
 Search Engine Optimization menjadi Search Engine Obersavtion
 Yaitu dari sudut pandang teknis kami, SEO bukan lagi sekedar Optimasi, namun telah menjadi Observasi Mesin Pencari.
-Ini tentang bagaimana Anda melakukan Observasi dan Bertindak untuk melakukan penyesuaian diskoneksi informasi antara SERP atau SGE dengan Bukti-Fakta Kompetensi milik Klien.
+Ini tentang bagaimana Anda melakukan Observasi dan Bertindak untuk melakukan penyesuaian diskoneksi informasi antara SERP atau SGE dengan Bukti-Fakta Kompetensi milik Klien. <br>
 Transisi Tekhnikal SEO yang masih berisi Leksikal-Kosmetik menjadi GEO-Ready Ground-Truth Helpful-Content Semantik.
 
 ## DISCLAIMER:
