@@ -124,7 +124,7 @@ Setelah menerima dokumen Audit dan Masterplan maka langkah yang bisa dilakukan y
 
 ## Tips Observasi: 
 - Lakukan observasi dengan bijak dengan visi utama adalah "Apakah Brand saya sudah memberikan Informasi Bermanfaat untuk Publik ??". 
-- Silahkan menggunakan beberapa peringkat terpisah atau meminjam perangkat kerabat atau famili untuk menghindari istilah bubble personalization.
+- Silahkan menggunakan beberapa perangkat berbeda atau meminjam perangkat kerabat atau famili untuk menghindari istilah bubble personalization.
 - Kegiatan Observasi SERP dan Audit menggunakan perangkat langsung tanpa Tools Tambahan (Se**ush, dan lainnya) sangat kami rekomendasikan, istilah kami: On-Fact and Direct Visual Audit.
 
  
