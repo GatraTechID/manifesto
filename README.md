@@ -82,9 +82,9 @@ GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai ja
 SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
 Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
 
-### Lokal SEO Enterprise & Entiti Spasial 
+### Local SEO Enterprise & Spasial Entities 
 #### Studi Kasus:
-##### A. Medis & Bisnis Kecantikan <br>
+##### A. Medis & Bisnis Kecantikan
 - (dalam proses)
 
 
