@@ -123,7 +123,21 @@ Kami mampu membantu Brand Anda secara langsung atau Klien Anda secara Zero-Footp
 
 Salam Sukses Selalu :) <br><br>
 
-## Halaman Layanan: 
+## Hal yang bisa kami bantu: 
+### 📂 [Klaster Utama]
+- Lokal SEO atau SEO Lokal
+- Lokal SEO Enterprise
+- Manajemen & Laporan Lokal SEO
+  
+ ### 📂 [Klaster Lanjutan]
+ - Agensi SGE Jakarta
+ - Lokal SEO GEO
+ - SEO Perusahaan SaaS
+ - SEO Aplikasi B2B
+ - SEO Platform Cloud
+ - White Label SEO
+ - Kolaborasi SEO
+  
 [Layanan SEO dan Lokal SEO]( https://lokalseo.id/ekspansi/index.html)
 <br>
 <br>
