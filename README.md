@@ -45,18 +45,6 @@ adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas 
 <br><br>
 ## DALAM PROSES:
 
-### SEO Indonesia 
-SEO adalah Supremasi Ekosistem Pencarian dan Ekselensi Brand pada Aset Digital dengan terapan Fakta yang mengikuti Diplomasi Aturan Layanan sebelum menjadi Sumber Informasi Audiens.
-Brand Awareness berbasis Sportifitas Fakta. Mengejar Titik Layak Visibilitas Digital. Pengawal Kompliansi Aset Digital Brand Internasional di Indonesia.
-
-### SEO Jakarta
-Jasa SEO Jakarta adalah 
-bukan lagi perkara jasa layanan atau titel terbaik dan pakar melainkan Evolusi Integritas Agency mengawal aset digital Brand Internasional tetap berada di jalur Kepatuhan terhadap Aturan Layanan Google 
-sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digital Pulau dan Regional Negeri mealalui Profil Bisnis Google. 
-GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai jaminan Brand Awareness.
-SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
-Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
-
 ### Fundamental & Metodologi
 Beberapa poin dibawah ini bisa ditemukan di Website kami: [LokalSEO ID]( https://lokalseo.id).
 
@@ -80,7 +68,26 @@ Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal da
 
 #### G. SGE Global Concern
 Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
-(Coming soon..)
+(dalam proses)
+
+### SEO Indonesia 
+SEO adalah Supremasi Ekosistem Pencarian dan Ekselensi Brand pada Aset Digital dengan terapan Fakta yang mengikuti Diplomasi Aturan Layanan sebelum menjadi Sumber Informasi Audiens.
+Brand Awareness berbasis Sportifitas Fakta. Mengejar Titik Layak Visibilitas Digital. Pengawal Kompliansi Aset Digital Brand Internasional di Indonesia.
+
+### SEO Jakarta
+Jasa SEO Jakarta adalah 
+bukan lagi perkara jasa layanan atau titel terbaik dan pakar melainkan Evolusi Integritas Agency mengawal aset digital Brand Internasional tetap berada di jalur Kepatuhan terhadap Aturan Layanan Google 
+sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digital Pulau dan Regional Negeri mealalui Profil Bisnis Google. 
+GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai jaminan Brand Awareness.
+SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
+Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
+
+### Lokal SEO Enterprise & Entiti Spasial 
+#### Studi Kasus:
+##### A. Medis & Bisnis Kecantikan <br>
+- (dalam proses)
+
+
 
 ## Manifesto Berbahasa Inggris
  [ Manifesto Berbahasa Inggris](enu/README.md)
