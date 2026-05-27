@@ -34,9 +34,8 @@ Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 #### STUDI KASUS:
 ##### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
-- SEO On-Fact Enterprise Masterplan Layer 1 - LED Display (dalam proses filter).
--  [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
-
+- [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](MANIFESTO_SEO_ENTERPRISE.md).
+- [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
 ### SEO IKN 
 adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas Operasional ke Algoritma Aturan Layanan Google untuk menempatkan Brand Anda ke Titik Layak Visibilitas Digital di Kompetisi Digital-Spatial Nasional di IKN. Ground-Truth Integrity System.
