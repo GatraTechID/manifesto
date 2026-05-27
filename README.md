@@ -124,6 +124,9 @@ Kami mampu membantu Brand Anda secara langsung atau Klien Anda secara Zero-Footp
 Salam Sukses Selalu :) <br><br>
 
 ## Hal yang bisa kami bantu untuk bisnis Anda: 
+Bila Anda temukan fakta-manfaat atas segala metodologi dan informasi diatas, maka Anda bisa mengandalkan kami sebagai Partner Strategi Bisnis Anda atau merekomendasikan kami ke Audiens Anda. <br>
+Selain kompetensi yang tersampaikan diatas, juga termasuk klasifikasi layanan berikut dibawah ini: 
+
 ### 📂 [Klaster Utama]
 - Lokal SEO atau SEO Lokal
 - Lokal SEO Enterprise
