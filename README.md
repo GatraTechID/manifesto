@@ -57,17 +57,30 @@ GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai ja
 SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
 Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
 
-### Profil Bisnis Google
-Kami akan mengupas information gain pada konteks ini dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
+### Fundamental & Metodologi
+Beberapa poin dibawah ini bisa ditemukan di Website kami: [LokalSEO ID]( https://lokalseo.id).
 
-### GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
+#### A. Profil Bisnis Google
+Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
+
+#### B. SEO On-Fact
+SEO On-Fact adalah sumber informasi yang bukan lagi hanya deskripsi definitif, melainkan narasi bagaimana-dan-efek-layanan dengan bukti-faktual-impresif. SEO yang berbasis **FAKTA Ground-Truth**. Ekselensi Brand dan Layanan Anda berhak menjadi informasi bermanfaat untuk publik.
+
+#### C. Standarisasi Layanan Lokal SEO
+Penerapan lokal seo yang kelengkapan parameternya berbasis fakta bisnis serta memiliki konten bermanfaat sesuai kompetensi bisnis yang terjaga *freshness*-nya.
+
+#### D. Standarisasi SEO On-Fact
+Penerapan SEO On-Fact pada Aset Digital milik Klien yang berfokus pada Sumber Informasi Bermanfaat sesuai ToS Ekosistem Pencarian dimana Rank, Visibilitas dan Otoritas Spatial-Market menjadi Titik Layak dan efek sportivitas. Terapan yang *clean* dan *neat* otomatis mempersiapkan bahkan meletakkan brand Anda dalam Zero-Click Era, AEO GEO. 
+
+#### E. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
 Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era.
 
-### Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
+#### F. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
 Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional dan kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. Sportif sesuai T.O.S Sistem Pencari.
 
-### SGE Global Concern
-Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era.
+#### G. SGE Global Concern
+Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
+(Coming soon..)
 
 ## Manifesto Berbahasa Inggris
  [ Manifesto Berbahasa Inggris](enu/README.md)
@@ -104,7 +117,8 @@ Kami mampu membantu Brand Anda secara langsung atau Klien Anda secara Zero-Footp
 Salam Sukses Selalu :) <br><br>
 
 ## Halaman Layanan: 
-[Layanan SEO dan Lokal SEO IKN]( https://lokalseo.id/ekspansi/index.html#Layanan-SEO-IKN)
+[Layanan SEO dan Lokal SEO]( https://lokalseo.id/ekspansi/index.html)
+<br>
 <br>
 PENTING: 
 Etika Collision Avoidance yaitu atas dasar Privasi Data, Penjagaan KPI serta Kebersihan Data maka kami tidak melayani Pelanggan dengan Niche Identik di Region yang sama dalam satu kontrak aktif baik white-label atau langsung. 
