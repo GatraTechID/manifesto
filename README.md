@@ -123,10 +123,12 @@ Kami mampu membantu Brand Anda secara langsung atau Klien Anda secara Zero-Footp
 
 Salam Sukses Selalu :) <br><br>
 
-## Hal yang bisa kami bantu: 
+## Hal yang bisa kami bantu untuk bisnis Anda: 
 ### 📂 [Klaster Utama]
 - Lokal SEO atau SEO Lokal
 - Lokal SEO Enterprise
+- Lokal SEO B2B
+- Lokal SEO Jakarta
 - Manajemen & Laporan Lokal SEO
   
  ### 📂 [Klaster Lanjutan]
