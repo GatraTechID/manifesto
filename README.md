@@ -8,14 +8,6 @@ yaitu dari sudut pandang teknis kami, SEO bukan lagi sekedar Optimasi namun tela
 Ini tentang bagaimana Anda melakukan Observasi dan Bertindak untuk melakukan penyesuaian diskoneksi informasi antara SERP atau SGE dengan Bukti-Fakta Kompetensi milik Klien. <br>
 Transisi Tekhnikal SEO yang masih berisi Leksikal-Kosmetik menjadi GEO-Ready Ground-Truth Helpful-Content Semantik.
 
-## DISCLAIMER:
-- Tidak bermaksud menyudutkan entitas atau brand tertentu.
-- Seluruh platform digital dan brand memiliki hak masing-masing dalam menerapkan strategi bisnisnya.
-- Masyarakat memiliki hak individu dalam memilih platform sumber informasi serta reaksi interaksinya selama tidak melanggar hukum.
-- Segala definisi yang kami sebutkan bukan berdasar KBBI atau bahasa baku melainkan hasil observasi teknis dan terapan lapangan.
-- Kami berusaha maksimal untuk mengurangi jargon marketing sambil tetap mengedepankan jargon teknis yang fungsinya kami anggap sebagai edukasi atau strategi bisnis.
-- Kami berupaya agar konten kami tetap bermanfaat dan memiliki kadar "actionable".
-
 ## DAFTAR ISI:
 
 ### SEO ENTERPRISE & Industrial Hardware
@@ -157,6 +149,16 @@ Selain kompetensi yang tersampaikan diatas, juga termasuk klasifikasi layanan be
 PENTING: 
 Etika Collision Avoidance yaitu atas dasar Privasi Data, Penjagaan KPI serta Kebersihan Data maka kami tidak melayani Pelanggan dengan Niche Identik di Region yang sama dalam satu kontrak aktif baik white-label atau langsung. 
 
+## DISCLAIMER:
+- Tidak bermaksud menyudutkan entitas atau brand tertentu.
+- Seluruh platform digital dan brand memiliki hak masing-masing dalam menerapkan strategi bisnisnya.
+- Masyarakat memiliki hak individu dalam memilih platform sumber informasi serta reaksi interaksinya selama tidak melanggar hukum.
+- Segala definisi yang kami sebutkan bukan berdasar KBBI atau bahasa baku melainkan hasil observasi teknis dan terapan lapangan.
+- Kami berusaha maksimal untuk mengurangi jargon marketing sambil tetap mengedepankan jargon teknis yang fungsinya kami anggap sebagai edukasi atau strategi bisnis.
+- Kami berupaya agar konten kami tetap bermanfaat dan memiliki kadar "actionable".
+
+<br>
+<br>
 
 
 #### **Classification:** Direct Algorithmic Authority (DAA) | SEO Top-Tier Vendor  
