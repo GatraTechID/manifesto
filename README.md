@@ -69,9 +69,18 @@ Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal da
 Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
 (dalam proses)
 
+#### G. SGE Global Concern
+Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
+(dalam proses)
+
+#### H. SEO Untuk SaaS dan Platform Cloud
+SEO Masterplan dalam format "What To Do". <br>
+(dalam rencana)
+
 ### SEO Indonesia 
 SEO adalah Supremasi Ekosistem Pencarian dan Ekselensi Brand pada Aset Digital dengan terapan Fakta yang mengikuti Diplomasi Aturan Layanan sebelum menjadi Sumber Informasi Audiens.
 Brand Awareness berbasis Sportifitas Fakta. Mengejar Titik Layak Visibilitas Digital. Pengawal Kompliansi Aset Digital Brand Internasional di Indonesia.
+
 
 ### SEO Jakarta
 Jasa SEO Jakarta adalah 
