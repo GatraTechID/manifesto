@@ -28,6 +28,7 @@ A Global Transition in Technical SEO from Lexical-Cosmetics into GEO-Ready Groun
 - VeriSight-Specs.
 - SGE-Global-Concern.
 - Actionable SEO On-Fact Masterplan Layer 1.
+- SEO sor SaaS in "How Will We Do It" formats. (planned)
 
 ## How We May Help You:
 - Local SEO
@@ -46,7 +47,7 @@ A Global Transition in Technical SEO from Lexical-Cosmetics into GEO-Ready Groun
 - Collaborative SEO
 - SEO Platform Cloud
 - Platform for SEO SaaS
-- SEO Perusahaan SaaS
+- SEO for SaaS Product and Platform.
 - B2B Application SEO
 - Enterprise SaaS SEO company
 
