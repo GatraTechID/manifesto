@@ -28,7 +28,6 @@ A Global Transition in Technical SEO from Lexical-Cosmetics into GEO-Ready Groun
 - VeriSight-Specs.
 - SGE-Global-Concern.
 - Actionable SEO On-Fact Masterplan Layer 1.
-- SEO On-Fact Masterplan Layer 1.
 
 ## How We May Help You:
 - Local SEO
