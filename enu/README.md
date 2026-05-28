@@ -22,12 +22,12 @@ A Global Transition in Technical SEO from Lexical-Cosmetics into GEO-Ready Groun
 
 ## TABLE OF CONTENTS:
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display Industrial Videotron - ENU.md](https://github.com/GatraTechID/manifesto/blob/4d5ceb9d2c257c6aa97cbb19d64fa7720de77766/enu/SEO%20On-Fact%20Enterprise%20Masterplan%20Layer%201%20-%20LED%20Display%20Industrial%20Videotron%20-%20ENU.md).
+- [Actionable SEO On-Fact Enterprise Masterplan Layer 1 - LED Display Industrial Videotron - ENU.md](https://github.com/GatraTechID/manifesto/blob/e797bc6e9359cceb46b55e7dd30c49e34308ef5c/enu/Actionable%20SEO%20On-Fact%20Enterprise%20Masterplan%20Layer%201%20-%20LED%20Display%20Industrial%20Videotron%20-%20ENU.md).
 
 ## Coming Soon:
 - Entity-Hub.
 - VeriSight-Specs.
 - SGE-Global-Concern.
-- Actionable SEO On-Fact Masterplan Layer 1.
 - SEO sor SaaS in "How Will We Do It" formats. (planned)
 
 ## How We May Help You:
