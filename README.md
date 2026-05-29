@@ -61,10 +61,6 @@ Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal da
 Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
 (dalam proses)
 
-#### G. SGE Global Concern
-Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
-(dalam proses)
-
 #### H. SEO Untuk SaaS dan Platform Cloud
 SEO Masterplan dalam format "What To Do". <br>
 (dalam rencana)
