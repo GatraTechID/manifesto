@@ -168,20 +168,23 @@ Tujuan dari upaya mencakup: memperkuat brand awareness, mengenalkan produk baru,
 Dalam upaya meraih tujuannya sebuah entitas bisnis dalam skala ekstrim bisa membuat nama akun yang terdapat niche & region, serta mengolah konten yang 70% isi spesifik atau general seluruh konten bersifat identitas bukan solusi-layanan-produk-manfaat.
 Tindakan brand-framing yang mengarah pada diskoneksi-informasi, penggunaan AI berlebih, self-klaim dan unhelpful-content yang sama sekali tidak disadari oleh audiens langganan dan audiens berikutnya.
 Tindakan brand-framing ini bisa menjadi sangat sportif dan menjadi langkah-optimasi-susulan secara digital bila agensi atau tim terkait dapat segera melakukan metode-sportif sesuai with visi-misi-metode web atau platform ini.
-Contoh Konsep penamaan bisnis dan brand pada medsos, biasanya:
+#### Contoh Konsep penamaan bisnis dan brand pada medsos, biasanya:
 *  nama_jasa_region_namaUsaha , banyak ditemukan di beberapa daerah
 *  nama_produk_region_TerMurah , ini adalah mix-mode ekstrim.
-Contoh Konten yang self-klaim , biasanya:
+#### Contoh Konten yang self-klaim , biasanya:
 *  Terbaik di Region.
 *  Tercepat di Region.
-Korelasi with konteks pembahasan, cara penamaan ataupun penulisan layanan pada GBP memilik aturan ketat tidak seperti beberapa medsos lain.
+#### Korelasi with konteks pembahasan
+Cara penamaan ataupun penulisan layanan pada GBP memilik aturan ketat tidak seperti beberapa medsos lain.
 Penamaan Branding dan Konten seperti inilah yang jelas nyata termasuk kiteria metode-pembersihan spam-update bila tidak memiliki groud-truth yang fakta terverifikasi algoritma.
 Pda medsos umunya tidak memiliki filter-awal penamaan dan apalagi metode-pembersihan dalam upaya mengamankan audeinsya.
+
 ### Akun Media Sosial Bisnis, Akun Media Sosial Pribadi, Key-Person atau Owner.
 Adalah proses penghubungan antar entitas dalam bio atau mention antar entitas di medsos with tujuan pamor, "gengsi" dan upaya medorong transaksional.
 Ini metode wajar dan sah-sah saja terkait algoritma-platform-medsos dan upaya bisnis atau visual-emosional audiensnya.
 Namun pada hasil di ekosistem pencarian with aturannya, tindakan penghubungan ini dapat secara signifikan efek posiitf-negatif-nya.
 Akan kami jelaskan di bawah pada poin (L. Entity-Link secara Personal ( key-person ) terhadap Brand).
+
 ### Transaksi Produk atau Jasa: Anatomi Keputusan.
 Konten Media Sosial hanyalah variabel pendukung dalam "Rapor Kepercayaan".
 Bagi pelanggan, konten media sosial adalah data tambahan atau titik mulai, bukan penentu akhir. Strategi visual, listing produk, dan kampanye iklan di sana hanyalah upaya membangun struktur keyakinan awal.
