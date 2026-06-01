@@ -103,16 +103,21 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - CV Gatra Eka Teknik
 - Nomor Induk Badan Usaha (NIB): 1904.2200.62453
 - Profil Bisnis Google: https://maps.app.goo.gl/beZMDCeGq7py2jPE8
-- Digital Backbone: www.gatraekateknik.co.id
-- Core Service SEO: www.lokalseo.id
-- Services Expansion: www.lokalseo.id/ekspansi/
-- Internal Tim: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard.
+- Core Tech. Infrastructure: www.gatraekateknik.co.id
+- Layanan Local SEO: www.lokalseo.id
+- Ekspansi Layanan Local SEO: www.lokalseo.id/ekspansi/
+- Repo Guard Team: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard.
 
 ----
 
-## Perbedaan Kalimat antar Platform pada Aset Digital Kami.
-Bahwa kemungkinan akan Anda temukan beberapa perbedaan atau add-on kalimat/paragraf/penjelasan yang bersifat untuk menghindari duplikasi Aset Kami antar Platform (internal, Google-Drive, GBP Post, Medsos, Web, Section Web). Hal ini bertujuan untuk menghindari dupilkasi dengan berupaya menambahkan Information-Gain dan Novelty dari masing-masing Konten atau Aset yang memiliki nama yang mirip atau identik.
+## Perbedaan Kalimat antar Platform pada Aset Digital Kami
+Akan Anda temukan beberapa perbedaan atau add-on kalimat/paragraf/penjelasan yang bersifat untuk menghindari duplikasi Aset Kami antar Platform (internal, Google-Drive, GBP Post, Medsos, Web, Section Web). 
+Hal ini bertujuan untuk menghindari dupilkasi dengan berupaya menambahkan Information-Gain dan Novelty dari masing-masing Konten atau Aset yang memiliki nama yang mirip atau identik. br<>
+
+Juga akan Anda temukan beberapa pengulangan paragraf atau section pada Aset Digital kami yang bertujuan untuk menjaga alur penyampaian informasi atau metodologi pada masing-masing topik atau judul.
+
 ----
+
 ## Tujuan Utama:
 - Dokumentasi Langkah Kerja Sederhana yang penyampaiannya diusahakan dapat langsung dipraktekkan (Actionable Helpful Content / Actionable Gain).
 - Harapan kami adalah seluruh metodologi dan langkah kerja yang ada bisa langsung diterapkan secara mandiri oleh Entitas Audiens terkait (Praktisi, Tim Konten, Konten Kreator, UMKM, Pemilik Usaha, C-Level). 
