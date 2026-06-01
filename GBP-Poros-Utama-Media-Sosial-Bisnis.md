@@ -158,16 +158,18 @@ Dalam kontek pembahasan ini, akun map bisnis dan ekosistem pencarian memiliki st
 Terutama penamaan yang tidak boleh mengandung niche dan alamat yang harus akurat hingga terkadang harus melalui Verifikasi Video.
 Regulasi dan Filter keamanan ini erbeda with akun medsos lainnya.
 ### Bisnis, Brand dan Media Sosial
-Bisnis bisa kita simpulkan sebagai kesatuan entitas (nama legal, alamat, identitas, layanan/produk, person/tim ).
-Brand adalah merk atau identitas marketing yang diolah oleh Bisnis itu sendiri, bisa berupa singkatan repesentasi visi-misi, USP dan Motto Layanan.
-Brand juga bisa representasi dari produk-layanan fokus tertentu dari Bisnis tersebut walaupun secara praktikal memiliki struktur layanan-produk yang lebih luas.
-Media Sosial di zaman ini sebagai wadah utama sebuah bisnis memperkenalkan dan mempromosikan usahanya untuk memdorong transaksi.
-Bagaimana mereka membuat srategi dan konten menyesuaikan audiens, algoritma dan ketentuan masing-masing platform.
-Upaya yang dilakukan anttara lain: konten, iklan, penggunaan B.A ternama, kolabs dan lainnya.
-Tujuan dari upaya mencakup: memperkuat brand awareness, mengenalkan produk baru, memperluas atau mendapatkan audiens baru, mendorong transaksi.
-Dalam upaya meraih tujuannya sebuah entitas bisnis dalam skala ekstrim bisa membuat nama akun yang terdapat niche & region, serta mengolah konten yang 70% isi spesifik atau general seluruh konten bersifat identitas bukan solusi-layanan-produk-manfaat.
-Tindakan brand-framing yang mengarah pada diskoneksi-informasi, penggunaan AI berlebih, self-klaim dan unhelpful-content yang sama sekali tidak disadari oleh audiens langganan dan audiens berikutnya.
-Tindakan brand-framing ini bisa menjadi sangat sportif dan menjadi langkah-optimasi-susulan secara digital bila agensi atau tim terkait dapat segera melakukan metode-sportif sesuai with visi-misi-metode web atau platform ini.
+Bisnis bisa kita simpulkan sebagai kesatuan entitas (nama legal, alamat, identitas, layanan/produk, person/tim). <br>
+Brand adalah merk atau identitas marketing yang diolah oleh Bisnis itu sendiri, bisa berupa singkatan repesentasi visi-misi, USP dan Motto Layanan. <br>
+Brand juga bisa representasi dari produk-layanan fokus tertentu dari Bisnis tersebut walaupun secara praktikal memiliki struktur layanan-produk yang lebih luas. <br>
+Media Sosial di zaman ini sebagai wadah utama sebuah bisnis memperkenalkan dan mempromosikan usahanya untuk memdorong transaksi. <br>
+Bagaimana mereka membuat srategi dan konten menyesuaikan audiens, algoritma dan ketentuan masing-masing platform. <br>
+#### Upaya yang dilakukan anttara lain: 
+konten, iklan, penggunaan B.A ternama, kolabs dan lainnya. <br>
+#### Tujuan dari upaya mencakup: 
+memperkuat brand awareness, mengenalkan produk baru, memperluas atau mendapatkan audiens baru, mendorong transaksi. <br>
+Dalam upaya meraih tujuannya sebuah entitas bisnis dalam skala ekstrim bisa membuat nama akun yang terdapat niche & region, serta mengolah konten yang 70% isi spesifik atau general seluruh konten bersifat identitas bukan solusi-layanan-produk-manfaat. <br>
+Tindakan brand-framing yang mengarah pada diskoneksi-informasi, penggunaan AI berlebih, self-klaim dan unhelpful-content yang sama sekali tidak disadari oleh audiens langganan dan audiens berikutnya. <br>
+Tindakan brand-framing ini bisa menjadi sangat sportif dan menjadi langkah-optimasi-susulan secara digital bila agensi atau tim terkait dapat segera melakukan metode-sportif sesuai with visi-misi-metode web atau platform ini. <br>
 #### Contoh Konsep penamaan bisnis dan brand pada medsos, biasanya:
 *  nama_jasa_region_namaUsaha , banyak ditemukan di beberapa daerah
 *  nama_produk_region_TerMurah , ini adalah mix-mode ekstrim.
