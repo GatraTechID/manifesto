@@ -163,7 +163,7 @@ Brand adalah merk atau identitas marketing yang diolah oleh Bisnis itu sendiri, 
 Brand juga bisa representasi dari produk-layanan fokus tertentu dari Bisnis tersebut walaupun secara praktikal memiliki struktur layanan-produk yang lebih luas. <br>
 Media Sosial di zaman ini sebagai wadah utama sebuah bisnis memperkenalkan dan mempromosikan usahanya untuk memdorong transaksi. <br>
 Bagaimana mereka membuat srategi dan konten menyesuaikan audiens, algoritma dan ketentuan masing-masing platform. <br>
-#### Upaya yang dilakukan anttara lain: 
+#### Upaya yang dilakukan antara lain: 
 konten, iklan, penggunaan B.A ternama, kolabs dan lainnya. <br>
 #### Tujuan dari upaya mencakup: 
 memperkuat brand awareness, mengenalkan produk baru, memperluas atau mendapatkan audiens baru, mendorong transaksi. <br>
@@ -320,7 +320,7 @@ Silahkan studi-kasus ujicoba pada jargon marketing sales-based self-klaim Anda (
 
 ## Observasi Media Sosial Hiburan & Profesi
 Media Sosial Hiburan & Profesi memiliki tujuannya masing dan aturan-layanan masing-masing tidak perlu kami jelaskan.
-Bahwa antara platform diatas tidak dapat menghubungkan secara hasil dan data atau konten, kembali lagi hanya ekostistem-pencarian yang dapat melakukan konekttifitas informasi tersebut untuk audiens Anda.
+Bahwa antara platform diatas tidak dapat menghubungkan secara hasil dan data atau konten, kembali lagi hanya ekostistem-pencarian yang dapat melakukan konektifitas informasi tersebut untuk audiens Anda.
 Konektifitas informasi yang bercampur dalam 1 halaman hasil pencarian memudahkan audiens dalam menggali informasi, mengenal hingga membuat keputusan with intensitas masing-masing konten apakah professional dan hiburan.
 Karena penetrasi sebuah brand dalam kontennya biasanya terbagi dua jalur yaitu hiburan dan formal-professional, yang pada akhirnya Brand terpaksa kerja 2x.
 Pengaturan GBP memungkinkan Anda melakukan hal ini with tetap presisi, konten yang sifatnya "hiburan" biasanya akan dibantu UGC oleh pengunjung atau Local Guide secara organik.
@@ -379,7 +379,7 @@ Penjabaran studi-kasus di bawah ini adalah berdasar fakta-pengerjaan yang secara
 *  Akun GBP Hard-Suspend tersemunyi from publik dan korelasi Omset: penurunan Omset from 25% hingga 35% pada niche Gadget adalah bukti valid bahwa cakupan besar Calon-Pembeli bukan hanya from Brand Awareness.
 *  Pengerjaan Layanan pada Klien Kami (Undisclosed): optimasi 3 titik dapat menyebabkan dominasi yang sangat sportif pada SERP dan local-map.
 *  Pengerjaan Layanan with Kolaborasi-Ground-Truth Rekan Jurnalis: berbeda with backlink atau PBN pada awal launcing, keterlibatan Rekan Jurnalis pada topik yang sudah tervalidasi EEAT nya membuat brand klien semakin "terbang".
-*  Pengerjaan Layanan with Kolaborasi-Ground-Truth Rekan Sosmed: kontten-konten yang tidak berdasar-fakta from klien tidak terlalu tampil pada SERP, berberda with topik konten yang sudah tervalidasi-EEAT dan dibarengi kolaborasi Jurnalis.
+*  Pengerjaan Layanan with Kolaborasi-Ground-Truth Rekan Sosmed: konten-konten yang tidak berdasar-fakta from klien tidak terlalu tampil pada SERP, berberda with topik konten yang sudah tervalidasi-EEAT dan dibarengi kolaborasi Jurnalis.
 *  Brand Pusat/Utama yang membuka Cabang Baru dan GBP Baru: proses pengenalan hubungan entitas kepada algoritma dapat membuat sebuah GBP segera ikut bersaing with pemain lokal di Map tanpa harus kompetisi-dari-awal.
 *  GBP kami yang faktual ground-truth tapi minim-literasi-digital-sosmed: cukup mendominasi pada niche nya di kota-nya dan pada platform ini (selama di restui Algoritma) akan terus berada di puncak keyword Lokal SEO B2B.
 *  Observasi Niche A: pada garmen ada 1 Brand Nasional hanya bermodal "jumlah-review" tanpa optimasi khusus tetap mampu "memakan" dominasi di beberapa kota, inisial CTX.
@@ -444,7 +444,8 @@ Efeknya ada saat pencarian niche atau brand pada SERP dan penejelasan SGE yang m
 Segala "tindakan" atau event oleh 1 entitas terkait yang terposting di dunia-digital with topik relevansi terutama keahlian maka akan mempengaruhi "skor EEAT" masing-masing entitas.
 Konsep metode teknis ini tidak berlaku "efek-optimasi" pada beberapa algoritma medsos dimana brand-personal-entity-link ini hanya beertujuan "gengsi", misal Owner-Of.
 
-### M. Optimasi SEO, Page-Html, Media Lokal dan Efek Cross-Platform. Pada Media Sosial, optimasi halaman web atau posting media lokal yang sudah Anda lakukan secara sah-EEAT-Fakta-GroundTruth tidak akan berarti apa-apa di algoritma Media Sosial.
+### M. Optimasi SEO, Page-Html, Media Lokal dan Efek Cross-Platform. 
+Pada Media Sosial, optimasi halaman web atau posting media lokal yang sudah Anda lakukan secara sah-EEAT-Fakta-GroundTruth tidak akan berarti apa-apa di algoritma Media Sosial.
 Ya, tentu saja itu sah-sah saja bagi strategi brand dan kebijakan masing-masing platform.
 Pada medsos akan diperlukan effort ekstra untuk mentransfer pesan from "page-html dan Media Lokal" ke Audiens Media Sosial Anda.
 Sebaliknya melalui GBP dan Algoritma SERP, sebuah konten Ground-Truth-Verified from page-html & media lokal sangat berharga secara Visibilitas dan Rank terhadap Bisnis Anda kepada audiens atau Calon-Pembeli di SERP dibanding 1 Konten-Estetik-Multi-B.A Super-mahal yang sudah Anda buat.
