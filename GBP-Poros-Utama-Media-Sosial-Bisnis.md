@@ -337,14 +337,14 @@ Semua interaksi yang terjadi antara pengunjung sangat mempengaruhi algoritma, ra
 Dari perhitungan "ranking" berdasar interaksi, Anda sebagai owner atau pebisnis pasti dapat membuat keputusan dengan logika-dasar mengapa Metode ini ada.
 
 ## Observasi Lokal Bisnis Tanpa Media Sosial Namun Memiliki Titik Map.
-Di era digital yang sudah masuk AI ini kebutuhan Akun medsos sangat penting.
-Bagaimana sebuah brand membangun akun dan melibatkan Agency dengan biaya "tinggi" untuk membungkus segala informasi demi transaksional.
+Di era digital yang sudah masuk AI ini kebutuhan Akun medsos sangat penting. <br>
+Bagaimana sebuah brand membangun akun dan melibatkan Agency dengan biaya "tinggi" untuk membungkus segala informasi demi transaksional. <br><br>
 Lalu bagaimana nasib bisnis-nyata tanpa kemampuan digitalisasi ??
-Ya tetap berjalan sesuai hukum-dasar transaksi, ada toko, ada orang, ada barang dan lanjut beli. Sederhana.
+Ya tetap berjalan sesuai hukum-dasar transaksi, ada toko, ada orang, ada barang dan lanjut beli. Sederhana. <br>
 Temuan unik disini,
 ya pada medsos semua orang bisa membuat akun A untuk audiens B, tapi bagaimana transaksional-benefitnya ?.
-Korelasi unik juga terjadi disini, bagaimana local guide atau siapapun dapat membuat titik-map pada sebuah bisnis-nyata yang minim-digitalisasi menjadi "terbang" di digital dan mendapatkan klien-baru.
-Hanya bermodal titik map, tanpa dasi, tanpa web sampai dengan tanpa nomor-chat, intinya satu yaitu titik lokasi dan relevansi usaha.
+Korelasi unik juga terjadi disini, bagaimana local guide atau siapapun dapat membuat titik-map pada sebuah bisnis-nyata yang minim-digitalisasi menjadi "terbang" di digital dan mendapatkan klien-baru. <br>
+Hanya bermodal titik map, tanpa dasi, tanpa web sampai dengan tanpa nomor-chat, intinya satu yaitu titik lokasi dan relevansi usaha. <br>
 Poin ini silahkan direnungi, secara digital-marketing dan secara pahala sebagai manusia.
 
 ## Metode Teknis Pengerjaan:
