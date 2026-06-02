@@ -342,8 +342,8 @@ Bagaimana sebuah brand membangun akun dan melibatkan Agency dengan biaya "tinggi
 Lalu bagaimana nasib bisnis-nyata tanpa kemampuan digitalisasi ??
 Ya tetap berjalan sesuai hukum-dasar transaksi, ada toko, ada orang, ada barang dan lanjut beli. Sederhana. <br>
 Temuan unik disini,
-ya pada medsos semua orang bisa membuat akun A untuk audiens B, tapi bagaimana transaksional-benefitnya ?.
-Korelasi unik juga terjadi disini, bagaimana local guide atau siapapun dapat membuat titik-map pada sebuah bisnis-nyata yang minim-digitalisasi menjadi "terbang" di digital dan mendapatkan klien-baru. <br>
+ya pada medsos semua orang bisa membuat akun A untuk audiens B, tapi bagaimana transaksional-benefitnya ? <br>
+Korelasi unik juga terjadi disini, bagaimana local guide atau siapapun dapat membuat titik-map pada sebuah bisnis-nyata yang minim-digitalisasi menjadi "terbang" di digital dan mendapatkan klien-baru. <br><br>
 Hanya bermodal titik map, tanpa dasi, tanpa web sampai dengan tanpa nomor-chat, intinya satu yaitu titik lokasi dan relevansi usaha. <br>
 Poin ini silahkan direnungi, secara digital-marketing dan secara pahala sebagai manusia.
 
