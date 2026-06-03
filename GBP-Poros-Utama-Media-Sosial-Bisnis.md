@@ -465,8 +465,10 @@ Pada level kecurangan sudah cukup menjelaskan, kita tidak perlu masuk pada level
 ### H. Fitur Keamanan & Sportif penambah Tingkat Pembuatan Keputusan dari Logika Manusia. 
 Fitur ini terbatas hanya pada jumlah bintang dan komentar. Tidak ada "perang" netizen disini, tanpa "dislike", tanpa "reply" antar audiens. Tapi yang terpenting, semua bisa klik "Tombol Laporkan" dengan isi/narasi pilihan Lapor yang Detail Terperinci. Fokus pada Prosedur Penghakiman calon pelanggan baru.
 
-### I. Penggunaan Sumber Data dan Kemiripan dengan Aplikasi Ojek Online, Pemesanan Online & E-Commerce, Transaksi Online to Offline. 
-Bahwa desain aplikasi yang kita sebutkan diatas adalah nyata merupakan versi upgrade dari Solusi Arsitektur Integrasi antara Google Maps - GBP - SERP. Solusi teknologi transaksional telah melaihrkan banyak start-up besar dan tidak akan terwujud bila berdasar teori-murni strategi Sosial Media.
+### I. Penggunaan Sumber Data 
+Penggunaan Sumber Data dan Kemiripan dengan Aplikasi Ojek Online, Pemesanan Online & E-Commerce, Transaksi Online to Offline. 
+Bahwa desain aplikasi yang kita sebutkan diatas adalah nyata merupakan versi upgrade dari Solusi Arsitektur Integrasi antara Google Maps - GBP - SERP. <br>
+Solusi teknologi transaksional telah melaihrkan banyak start-up besar dan tidak akan terwujud bila berdasar teori-murni strategi Sosial Media.
 
 ### J. Orkestrasi Masterpiece SERP yang tetap Sportif. 
 Pada 1 Brand multi-cabang yang sangat faktual Ground-Truth tervalidasi algoritma Ekosistem Pencarian, maka kompetitornya akan tersebar:
