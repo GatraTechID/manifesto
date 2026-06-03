@@ -431,8 +431,10 @@ Desain Arsitektur dan Entity-Link Cross-Platform GBP-GoogleMap-SERP 90% Terutama
 * Uji kompetensi Interaksi ke Tim Internal Brand melalui Chat atau Telepon.
 * Penelitian titik lokasi dan navigasi jalur terdekat.
 
-### C. Minim Literasi-Konten kurang mempengaruhi efek emosional dalam membuat keputusan:
-GBP yang tidak diurus alias sedikit diabaikan oleh Pemilik pada niche dan kompetisi bisnis tertentu yaitu sebuah entitas yang tidak memiliki medsos/web tetap dapat membuat kita untuk bertransaksi hanya berdasar jumlah review dan beberapa foto. Ini fakta bahwa ground-truth atau lokasi-fisik yang nyata dari bisnis, review pelanggan lain dan beberapa foto UGC lebih penting dari ratusan konten estetik.
+### C. Minim Literasi-Konten 
+Minim Literasi-Konten kurang mempengaruhi efek emosional dalam membuat keputusan.
+GBP yang tidak diurus alias sedikit diabaikan oleh Pemilik pada niche dan kompetisi bisnis tertentu yaitu sebuah entitas yang tidak memiliki medsos/web tetap dapat membuat kita untuk bertransaksi hanya berdasar jumlah review dan beberapa foto. <br>
+Ini fakta bahwa ground-truth atau lokasi-fisik yang nyata dari bisnis, review pelanggan lain dan beberapa foto UGC lebih penting dari ratusan konten estetik. <br>
 Pada momen tertentu walaupun nihil elemen (foto, medsos, web, bahkan nomor chat) dan hanya bermodal 5 review terbaru sudah "cukup" membuat kita "nekat" untuk datang ke titik lokasi.
 
 ### D. Ekosistem Pencarian (keyword & hasil).
@@ -462,8 +464,10 @@ Sesuai standar pada poin F, maka platform akan melakukan "tindakan" atas informa
 Artinya ini akan meminimalisasi tindakan kecurangan yang banyak terjadi di medsos atau e-commerce lainnya. <br>
 Pada level kecurangan sudah cukup menjelaskan, kita tidak perlu masuk pada level branding atau jargon.
 
-### H. Fitur Keamanan & Sportif penambah Tingkat Pembuatan Keputusan dari Logika Manusia. 
-Fitur ini terbatas hanya pada jumlah bintang dan komentar. Tidak ada "perang" netizen disini, tanpa "dislike", tanpa "reply" antar audiens. Tapi yang terpenting, semua bisa klik "Tombol Laporkan" dengan isi/narasi pilihan Lapor yang Detail Terperinci. Fokus pada Prosedur Penghakiman calon pelanggan baru.
+### H. Fitur Keamanan & Sportivittas.
+Fitur Keamanan & Sportivittas penambah Tingkat Pembuatan Keputusan dari Logika Manusia.
+Fitur ini terbatas hanya pada jumlah bintang dan komentar. Tidak ada "perang" netizen disini, tanpa "dislike", tanpa "reply" antar audiens. <br>
+Tapi yang terpenting, semua bisa klik "Tombol Laporkan" dengan isi/narasi pilihan Lapor yang Detail Terperinci. Fokus pada Prosedur Penghakiman calon pelanggan baru.
 
 ### I. Penggunaan Sumber Data 
 Penggunaan Sumber Data dan Kemiripan dengan Aplikasi Ojek Online, Pemesanan Online & E-Commerce, Transaksi Online to Offline. 
