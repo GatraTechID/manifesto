@@ -62,7 +62,7 @@ Masing-masing individu atau kelompok atau Netizen memiliki hak-pribadi atau hak-
 *  tentang platform apa dan bagaimana lalu seperti apa dalam menikmati konten
 *  berinteraksi serta berkontribusi selama menyetujui aturan layanan.
 *  dan Selama tidak melanggar Hukum di Negara tempat ia berada.
-*  
+
 ### Informasi
 Adalah suatu narasi atau maksud atau tujuan atau penjelasan berita tentang entitas atau kegiatan.
 
