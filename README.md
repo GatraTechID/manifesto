@@ -49,11 +49,34 @@ lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat 
 6. CATATAN KRITIS AKHIR <br>
 Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 
+
 ### Studi Kasus Industrial Hardware:
 #### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
-- Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
+- SEO Native-Audit Zero-Tools Visual Digital-Spatial Market Audit. Status dokumen (on-hand klien, dalam proses antrian penysusunan manifesto).
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](MANIFESTO_SEO_ENTERPRISE.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
+
+### Studi Kasus YMYL:
+#### A. Degrasi Visibilitas dan Upaya Perbaikan. 
+Tentang pelanggaran T.o.S YMYL dan upaya perbaikan. Status dokumen (dalam proses finalisasi klien).
+
+#### B. SEO On-Fact Masterplan YMYL.
+Status dokumen (dalam proses finalisasi klien).
+
+### Studi Kasus Premium Lifestyle:
+
+#### A. SEO On-Fact Masterplan F&B, Social Hub, Entertainment.
+Status dokumen (progress).
+
+----
+
+## LOCAL SEO ENTERPRISE & SPASIAL ENTITTIES 
+
+### A. Fasilitas Kesehatan & Klinik Kecantikan
+Memahami YMYL dan menerapkannya pada identitas brand Fas-Kes Anda di Ekosistem Pencarian. Status dokumen (dalam proses finalisasi).
+
+### B. Spatial Entertainment & Social Hub
+Status dokumen (progress).
 
 ----
 
@@ -84,11 +107,6 @@ sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digital
 GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai jaminan Brand Awareness.
 SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
 Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
-
-### Local SEO Enterprise & Spasial Entities 
-#### Studi Kasus:
-##### A. Medis & Klinik Kecantikan
-- (dalam proses)
 
 ----
 
