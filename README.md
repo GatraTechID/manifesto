@@ -70,7 +70,7 @@ Status dokumen (progress).
 
 ----
 
-## LOCAL SEO ENTERPRISE & SPASIAL ENTITTIES 
+## LOCAL SEO ENTERPRISE & SPASIAL ENTITIES 
 
 ### A. Fasilitas Kesehatan & Klinik Kecantikan
 Memahami YMYL dan menerapkannya pada identitas brand Fas-Kes Anda di Ekosistem Pencarian. Status dokumen (dalam proses finalisasi).
