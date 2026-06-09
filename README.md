@@ -36,7 +36,7 @@ Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal da
 
 ----
 
-## SEO ENTERPRISE & Industrial Hardware
+## SEO ENTERPRISE
 adalah seperti Search Engine Optic Network sebagai jalur Kabel Fiber Optic Invisible yang menghubungkan Node Ground-Truth seluruh Cabang-Kota Brand Anda di Indonesia berskala Enterprise
 lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat publik setelah melewati Approval Layer Proxy dari T.O.S Ekosistem Pencarian (THE ALGORITHMIC VERDICT). <br>
 
@@ -49,7 +49,7 @@ lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat 
 6. CATATAN KRITIS AKHIR <br>
 Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 
-### STUDI KASUS:
+### Studi Kasus Industrial Hardware:
 #### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - Zero-Tools Visual Digital-Spatial Market Audit (dalam proses filter).
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](MANIFESTO_SEO_ENTERPRISE.md).
