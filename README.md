@@ -53,7 +53,7 @@ Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 ### Studi Kasus Industrial Hardware:
 #### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - SEO Native-Audit Zero-Tools Visual Digital-Spatial Market Audit. Status dokumen (on-hand klien, dalam proses antrian penysusunan manifesto).
-- [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](MANIFESTO_SEO_ENTERPRISE.md).
+- [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO%20On-Fact%20Enterprise%20Masterplan%20Layer%201%20-%20LED%20Display%20Industrial%20Videotron.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
 ### Studi Kasus YMYL:
