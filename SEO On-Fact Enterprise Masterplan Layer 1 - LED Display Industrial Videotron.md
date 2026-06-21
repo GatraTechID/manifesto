@@ -1043,7 +1043,7 @@ Halaman Penutup Laporan.
 - Untuk diskusi strategis tingkat lanjut, Representatif Skala Bisnis kami tersedia dan standby di Jakarta.
 
 ## Fase Inkubasi Pengerjaan & Dokumen:
-- Tier Prioritas Emas: [nama_merk] LED memegang status prioritas utama selama 14 Hari Kerja sejak dokumen ini diterima. Setelah jendela waktu ini, fokus mobilisasi tim akan dialihkan ke entitas lain (FANVIL).
+- Tier Prioritas Emas: [nama_merk] LED memegang status prioritas utama selama 14 Hari Kerja sejak dokumen ini diterima. Setelah jendela waktu ini, fokus mobilisasi tim akan dialihkan ke entitas lain (nama_merk).
 - Publikasi Otoritas: Perlu dipahami bahwa versi publik yang akan terbit di GitHub Repo (Manifesto) akan menjadi referensi terbuka. Kecepatan eksekusi [nama_merk] LED menentukan siapa yang memegang kendali pertama atas informasi tersebut di pasar.
 - Etika Collision Avoidance: Kami berkomitmen menjaga integritas wilayah; kami tidak akan melayani pengerjaan untuk Niche dan Region yang identik setelah kontrak aktif dengan [nama_merk] LED.
 
@@ -1062,9 +1062,8 @@ Kami mengucapkan terima kasih yang sebesar-besarnya atas invitasi dan kepercayaa
 Salam
 LokalSEO ID || Gatra Tech ID
 
-<br>
-<br>
-<br>
+---
+---
 [NODE STATUS: ACTIVE] ─── [ToS COMPLIANCE: 100% SECURE]<br>
 [ENGINE: GEO/AEO-READY] ── [COLLISION AVOIDANCE: ON]<br>
 [LEAD: WIRO-88 OPERATOR MODE ACTIVATED]<br>
