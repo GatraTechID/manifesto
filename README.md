@@ -18,20 +18,24 @@ Beberapa poin dibawah ini bisa ditemukan di Website kami: [LokalSEO ID]( https:/
 ### A. Profil Bisnis Google
 Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
 
-### B. SEO On-Fact
+### B. Ground-Truth SEO
+Definisi Ground-Truth serta korelasinya dengan SEO dan Visibilitas Bisnis di Ekosistem Pencarian.<br>
+ [Baca lebih detail tentang Ground-Truth SEO dan terapannya pada sektor YMYL](Ground-Truth-SEO.md).
+
+### C. SEO On-Fact
 SEO On-Fact adalah sumber informasi yang bukan lagi hanya deskripsi definitif, melainkan narasi bagaimana-dan-efek-layanan dengan bukti-faktual-impresif. SEO yang berbasis **FAKTA Ground-Truth**. Ekselensi Brand dan Layanan Anda berhak menjadi informasi bermanfaat untuk publik.
 
-### C. Standarisasi Layanan Lokal SEO
+### D. Standarisasi Layanan Lokal SEO
 Penerapan lokal seo yang kelengkapan parameternya berbasis fakta bisnis serta memiliki konten bermanfaat sesuai kompetensi bisnis yang terjaga *freshness*-nya.
 
-### D. Standarisasi SEO On-Fact
+### E. Standarisasi SEO On-Fact
 Penerapan SEO On-Fact pada Aset Digital milik Klien yang berfokus pada Sumber Informasi Bermanfaat sesuai ToS Ekosistem Pencarian dimana Rank, Visibilitas dan Otoritas Spatial-Market menjadi Titik Layak dan efek sportivitas. Terapan yang *clean* dan *neat* otomatis mempersiapkan bahkan meletakkan brand Anda dalam Zero-Click Era, AEO GEO. 
 
-### E. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
+### F. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
 Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era<br>
- [Baca lebih detail tentang GBP POROS UTAMA MEDSOS BINIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
+ [Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
 
-### F. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
+### G. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
 Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional dan kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. Sportif sesuai T.O.S Sistem Pencari.
 
 ----
