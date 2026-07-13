@@ -41,7 +41,7 @@ Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan in
 
 ----
 
-## SRATEGI VISIBILITAS AI
+## STRATEGI VISIBILITAS AI
 Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews dan Gemini AI, serta penggunaan native-tools (GSC, GA4) sebagai metrik audit keywords.  
 
 ### A. Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
