@@ -33,10 +33,21 @@ Penerapan SEO On-Fact pada Aset Digital milik Klien yang berfokus pada Sumber In
 
 ### F. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
 Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era<br>
- [Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
+[Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
 
 ### G. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
-Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional dan kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. Sportif sesuai T.O.S Sistem Pencari.
+Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional serta kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. 
+Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan information gain.
+
+----
+
+## SRATEGI VISIBILITAS AI
+Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews dan Gemini AI, serta penggunaan native-tools (GSC, GA4) sebagai metrik audit keywords.  
+
+### A. Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
+Penyusunan Informasi Bisnis melalui pendekatan Ontologi, Taksonomi, dan KR&R. 
+Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
+[Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
 
 ----
 
