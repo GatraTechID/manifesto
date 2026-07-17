@@ -141,15 +141,18 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 ----
 
 ## IDENTITAS 
-- Gatra Tech ID
-- lokalSEO ID
 - CV Gatra Eka Teknik
 - Nomor Induk Badan Usaha (NIB): 1904.2200.62453
+- Gatra Tech ID, bertindak sebagai brand utama yang berfokus pada topik software house, integrasi AI dan infrastruktur.
+- LokalSEO ID, merupakan sub-brand dari Gatra Tach ID yang berfokus topik SEO, Local SEO, Visibilitas AI. 
 - Profil Bisnis Google: https://maps.app.goo.gl/beZMDCeGq7py2jPE8
 - Core Tech. Infrastructure: www.gatraekateknik.co.id
 - Layanan Local SEO: www.lokalseo.id
 - Ekspansi Layanan Local SEO: www.lokalseo.id/ekspansi/
 - Repo Guard Team: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard.
+
+### Media Sosial 
+- https://www.instagram.com/lokalseoid/
 
 ----
 
@@ -162,7 +165,7 @@ Juga akan Anda temukan beberapa pengulangan paragraf atau section pada Aset Digi
 ----
 
 ## Tujuan Utama:
-- Dokumentasi Langkah Kerja Sederhana yang penyampaiannya diusahakan dapat langsung dipraktekkan (Actionable Helpful Content / Actionable Gain).
+- Dokumentasi Langkah Kerja Sederhana dengan upaya penyampaian yang dapat langsung dipraktekkan (Actionable Helpful Content / Actionable Gain).
 - Harapan kami adalah seluruh metodologi dan langkah kerja yang ada bisa langsung diterapkan secara mandiri oleh Entitas Audiens terkait (Praktisi, Tim Konten, Konten Kreator, UMKM, Pemilik Usaha, C-Level). 
 - Mengajak Brand dan Praktisi untuk terlibat dalam membangun Ekosistem Sumber Informasi yang bersih sportif pada SERP dan SGE.
 - Mengikuti dan mengajak Publik untuk memahami dan menerapkan Aturan Layanan Ekosistem Pencarian (Helpful-Content, YMYL, EEAT, Spam-Update, Entity-Based, Ground-Truth, Information Gain, Actionable Informaion Gain).
