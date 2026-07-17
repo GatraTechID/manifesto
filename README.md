@@ -152,7 +152,8 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - Repo Guard Team: G-FACT-99-RepoGuard aka GF-9999 & GF-3F-ContentGuard.
 
 ### Media Sosial 
-- https://www.instagram.com/lokalseoid/
+- IG Gatra Tech ID: [@lokalseoid](https://www.instagram.com/lokalseoid/) kedepannya akan berbagi informasi untuk audiens terkait topik software house, integrasi AI dan infrastruktur.
+- IG LokalSEO ID [@lokalseoid](https://www.instagram.com/lokalseoid/) akan berbagi informasi untuk audiens terkait topik SEO, Local SEO, Visibilitas AI dan Infrastruktur Visibilitas AI.
 
 ----
 
