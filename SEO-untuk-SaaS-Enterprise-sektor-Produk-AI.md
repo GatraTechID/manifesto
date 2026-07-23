@@ -1,4 +1,4 @@
-# SEO dan Visisbilitas AI untuk SaaS sektor Produk AI.
+# SEO dan Visibilitas AI untuk SaaS sektor Produk AI.
 
 Keterangan Dokumen: 
 Proposal strategi SEO dan Visibilitas AI yang sudah diterbitkan ke pelanggan pada periode Juni 2026. 
