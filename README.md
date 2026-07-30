@@ -157,6 +157,13 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - Gatra Tech ID: 089690479015
 - LokalSEO ID: 08976432329
 
+### Email
+#### Gatra Tech ID
+- bisnis@gatraekateknik.co.id
+- gatraekateknik@gmail.com
+#### LokalSEO ID
+- bisnis@lokalseo.id
+- layananlokalseo@gmail.com
 
 ### Media Sosial 
 - IG Gatra Tech ID: [@gatratech_id](https://www.instagram.com/gatratech_id/) kedepannya akan berbagi informasi untuk audiens terkait topik software house, integrasi AI dan infrastruktur.
