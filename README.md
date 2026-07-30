@@ -18,7 +18,7 @@ Transisi Tekhnikal SEO yang masih berisi Leksikal-Kosmetik menjadi GEO-Ready Gro
 ----
 
 ## Fundamental & Metodologi
-Beberapa poin dibawah ini bisa ditemukan di Website kami: [LokalSEO ID]( https://lokalseo.id).
+Beberapa poin dibawah ini bisa ditemukan di Website: [LokalSEO ID]( https://lokalseo.id).
 
 ### A. Profil Bisnis Google
 Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
@@ -152,7 +152,10 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - Gatra Tech ID, bertindak sebagai brand utama yang berfokus pada topik software house, integrasi AI dan infrastruktur. Website: [www.gatraekateknik.co.id](https://gatraekateknik.co.id).
 - LokalSEO ID, merupakan sub-brand dari Gatra Tach ID yang berfokus topik SEO, Local SEO, Visibilitas AI. Website: [https://lokalseo.id](https://lokalseo.id).
 - Profil Bisnis Google: [https://maps.app.goo.gl/beZMDCeGq7py2jPE8](https://maps.app.goo.gl/beZMDCeGq7py2jPE8).
-- Ekspansi Layanan Local SEO: www.lokalseo.id/ekspansi/
+
+### Nomor Telepon
+- Gatra Tech ID: 089690479015
+- LokalSEO ID: 08976432329
 
 
 ### Media Sosial 
