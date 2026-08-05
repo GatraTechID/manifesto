@@ -151,7 +151,8 @@ Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai
 - Nomor Induk Badan Usaha (NIB): 1904.2200.62453
 - Gatra Tech ID, bertindak sebagai brand utama yang berfokus pada topik software house, integrasi AI dan infrastruktur. Website: [www.gatraekateknik.co.id](https://gatraekateknik.co.id).
 - LokalSEO ID, merupakan sub-brand dari Gatra Tach ID yang berfokus topik SEO, Local SEO, Visibilitas AI. Website: [https://lokalseo.id](https://lokalseo.id).
-- Profil Bisnis Google: [https://maps.app.goo.gl/beZMDCeGq7py2jPE8](https://maps.app.goo.gl/beZMDCeGq7py2jPE8).
+- Profil Bisnis Google milik Gatra Tech ID: [https://maps.app.goo.gl/beZMDCeGq7py2jPE8](https://maps.app.goo.gl/beZMDCeGq7py2jPE8).
+- Profil Bisnis Google milik LokalSEO ID: [https://maps.app.goo.gl/PjGSmYpia69mCPGCA](https://maps.app.goo.gl/PjGSmYpia69mCPGCA).
 
 ### Nomor Telepon
 - Gatra Tech ID: 089690479015
