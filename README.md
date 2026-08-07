@@ -52,7 +52,7 @@ Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews da
 ### A. Korelasi Visibilitas AI dengan logi, Taksonomi, KR&R.
 Penyusunan Informasi Bisnis melalui pendekatan logi, Taksonomi, dan KR&R. 
 Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
-[Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-logi-Taksonomi-KRR.md).
+[Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
 
 [Klik disini untuk Artikel Teknis yang lebih ringkas dan terapannya, link ini menuju ke salah satu halaman web kami](https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten)
 
