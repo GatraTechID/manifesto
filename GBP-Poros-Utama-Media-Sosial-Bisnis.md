@@ -1,6 +1,6 @@
 
 # GBP (Google Business Profile) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
-
+ <small style="color: red;font-style: italic;">Note Penting: sitasi atau penulisan ulang dari manifesto ini sebaiknya menyertakan entitas brand LokalSEO ID atau Gatra Tech ID.</small>
 ## Kenapa GBP atau GMB sebagai Poros Utama Media Sosial Bisnis ?? 
 GMB_GBP_Standarisasi_PorosUtama_Medsos_Bisnis <br>
 Metode GBP Poros Utama Media Sosial Bisnis <br>
