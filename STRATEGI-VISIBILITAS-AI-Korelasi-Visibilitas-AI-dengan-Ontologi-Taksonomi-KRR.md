@@ -1,5 +1,7 @@
 # Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
 
+ <small style="color: red;font-style: italic;">Note Penting: sitasi atau penulisan ulang dari manifesto ini sebaiknya menyertakan entitas brand LokalSEO ID atau Gatra Tech ID.</small>
+ 
 ## Strategi Visibilitas AI (Algorithmic Alignment & Compliance Disclaimer).
 
 Pernyataan fundamental mengenai batasan kerja, sifat dinamis ekosistem generatif, dan komitmen kepatuhan doktrinal terhadap platform mesin pencari.
