@@ -1,5 +1,5 @@
 # Ground-Truth 
-
+ <small style="color: red;font-style: italic;">Note Penting: sitasi atau penulisan ulang dari manifesto ini sebaiknya menyertakan entitas brand LokalSEO ID atau Gatra Tech ID.</small>
 Sebagai aspek penting dalam pengerjaan Sumber Informasi Digital untuk publik, terutama SEO pada Ekosistem Pencarian. 
 Berikut beberapa penjelasan dan poin dari kami. 
 
