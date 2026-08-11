@@ -61,8 +61,8 @@ Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) y
 ## STRATEGI VISIBILITAS AI
 Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews dan Gemini AI, serta penggunaan native-tools (GSC, GA4) sebagai metrik audit keywords.  
 
-### A. Korelasi Visibilitas AI dengan logi, Taksonomi, KR&R.
-Penyusunan Informasi Bisnis melalui pendekatan logi, Taksonomi, dan KR&R. 
+### A. Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
+Penyusunan Informasi Bisnis melalui pendekatan Ontologi, Taksonomi, dan KR&R. 
 Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
 [Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
 
