@@ -48,7 +48,7 @@ Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan in
 
 ## PORTOFOLIO
 
-Portofolio pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sudah tersedia di [halaman web](https://lokalseo.id/portofolio/) milik LokalSEO ID. Berikut dibawah ini yang sudah selesai diproses: 
+Portofolio pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sudah tersedia di [halaman web portofolio](https://lokalseo.id/portofolio/) milik LokalSEO ID. Berikut dibawah ini yang sudah selesai diproses: 
 
 ### Pemulihan Akun Profil Bisnis Google (Google Business Profile).
 Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) yang ditangguhkan. Eskalasi dilakukan melalui jalur dukungan teknis resmi Forum GBP dengan bantuan Product Expert dan Google Support Team, dilanjutkan dengan optimasi berbasis "Ground-Truth".
