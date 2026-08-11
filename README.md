@@ -46,6 +46,18 @@ Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan in
 
 ----
 
+## PORTOFOLIO
+
+Portofolio pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sudah tersedia di [halaman web](https://lokalseo.id/portofolio/) milik LokalSEO ID. Berikut dibawah ini yang sudah selesai diproses: 
+
+### Pemulihan Akun Profil Bisnis Google (Google Business Profile).
+Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) yang ditangguhkan. Eskalasi dilakukan melalui jalur dukungan teknis resmi Forum GBP dengan bantuan Product Expert dan Google Support Team, dilanjutkan dengan optimasi berbasis "Ground-Truth".
+
+[Baca lebih detail porttofolio dengan topik Pemulihan Akun Profil Bisnis Google](https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google).
+
+
+----
+
 ## STRATEGI VISIBILITAS AI
 Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews dan Gemini AI, serta penggunaan native-tools (GSC, GA4) sebagai metrik audit keywords.  
 
