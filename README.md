@@ -4,8 +4,13 @@ SEO On-Fact berbasis Fakta-Manfaat serta Ground-Truth Digital Architecture yang 
 
 ----
 
-Gatra Tech ID bersama LokalSEO ID resmi hadir sebagai AI Visibility Infrastructure Firm yaitu Penyedia Infrastruktur Visibilitas AI untuk Brand di Indonesia dan Global agar Entitas Bisnis Anda terbaca oleh Sistem Pencarian Modern.
-[Baca lebih detail (privacy, EULA, proses dan bukti fakta)](Manifesto-Infrastruktur-Visibilitas-AI.md). 
+## Penyedia Sistem Infrastruktur Visibilitas AI
+
+Gatra Tech ID bersama LokalSEO ID resmi hadir sebagai AI Visibility Infrastructure Firm yaitu Penyedia Infrastruktur Visibilitas AI untuk Brand di Indonesia serta Global agar Entitas Bisnis Anda terbaca dan direkomendasikan oleh Sistem Pencarian Modern. 
+
+Info lebih lengkap:
+* Portofolio dan Studi Kasus Hasil Kerja terkait layanan ini, silahkan klik link: [https://lokalseo.id/portofolio](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI)
+* Terkait EULA (End-User License Agreement), SLA (Service Level Agreement) dan Privacy NDA untuk Layanan ini bisa dibaca pada link: [https://gatratechid.github.io/manifesto/Manifesto-Infrastruktur-Visibilitas-AI.html](https://gatratechid.github.io/manifesto/Manifesto-Infrastruktur-Visibilitas-AI.html).
 
 ----
 
