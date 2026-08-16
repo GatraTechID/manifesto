@@ -236,6 +236,12 @@ Seluruh metodologi teknis kami didasarkan pada pendalaman teknis komputasi, obse
 
 ---
 
+## Studi Kasus dan On-Boarding
+
+### Portofolio & Studi Kasus
+
+Salah satu studi kasus dari integrasi serta haailnya pada klien kami dapat dibaca secara komprahensif pada link: [https://lokalseo.id/portofolio](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI) 
+
 ### 🌐 BLUEPRINT ON-BOARDING
 Silakan hubungi tim pengembang kami untuk pembahasan blueprint teknis detail serta proses inisiasi *on-boarding system*:
 * **Official Portal:** [https://lokalseo.id](https://lokalseo.id)
