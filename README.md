@@ -70,7 +70,7 @@ Halaman Web: [https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-p
 ### 3. Studi Kasus Entity SEO.
 Penerapan Entity Expertise Transfer dan Historical Geo-Authority pada Cabang Bisnis Baru. Sebagai terapan metodologi transfer keahlian dan otoritas spasial pada aset digital milik Klien yang membuka cabang baru di kota yang berbeda dari kantor pusat.
 
-Halaman GitHub: [Studi-Kasus-Entity-SEO.mdI](Studi-Kasus-Entity-SEO.md).
+Halaman GitHub: [Studi-Kasus-Entity-SEO.md](Studi-Kasus-Entity-SEO.md).
 
 ----
 
