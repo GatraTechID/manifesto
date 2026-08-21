@@ -57,11 +57,20 @@ Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan in
 
 Portofolio pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sudah tersedia di [halaman web portofolio](https://lokalseo.id/portofolio/) milik LokalSEO ID. Berikut dibawah ini yang sudah selesai diproses: 
 
-### Pemulihan Akun Profil Bisnis Google (Google Business Profile).
+### 1. Pemulihan Akun Profil Bisnis Google (Google Business Profile).
 Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) yang ditangguhkan. Eskalasi dilakukan melalui jalur dukungan teknis resmi Forum GBP dengan bantuan Product Expert dan Google Support Team, dilanjutkan dengan optimasi berbasis "Ground-Truth".
 
-[Baca lebih detail porttofolio dengan topik Pemulihan Akun Profil Bisnis Google](https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google).
+Halaman Web: [https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google](https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google).
 
+### 2. Korelasi Data Ground-Truth dan Infrastruktur Visibilitas Entitas pada Pencarian Berbasis AI.
+Mengapa Grafik Interaksi GBP Menurun di Tengah Peningkatan Sinyal Transaksional ? Karena sintesis Jawaban AI Overviews memudahkan audiens untuk mendapatkan jawaban langsung. Simak studi kasus pengerjaannya selengkapnya pada link dibawah ini.
+
+Halaman Web: [https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI).
+
+### 3. Studi Kasus Entity SEO.
+Penerapan Entity Expertise Transfer dan Historical Geo-Authority pada Cabang Bisnis Baru. Sebagai terapan metodologi transfer keahlian dan otoritas spasial pada aset digital milik Klien yang membuka cabang baru di kota yang berbeda dari kantor pusat.
+
+Halaman GitHub: [Studi-Kasus-Entity-SEO.mdI](Studi-Kasus-Entity-SEO.md).
 
 ----
 
