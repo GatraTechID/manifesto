@@ -226,22 +226,34 @@ Sinyal kesegaran data (freshness signal) utama difokuskan secara eksklusif pada 
 Performa Organik & Konversi GBP (Maret – Juli 2026).
 Akumulasi data first-party dari Google Business Profile API mencatat total 12.566 Impresi dan 1.634 Aksi Direct Intent (panggilan telepon, navigasi rute, dan kunjungan web) pada periode 5 bulan pertama operasional. 
 
-[disini nanti gambar tabel]. 
+### Grafik Analisa Performa
+
+#### GA4 dari Website Utama
+<img src="https://lokalseo.id/portofolio/img/LokalSEO-ID-portofolio-03-pic1-Studi-Kasus-Entity-Based-SEO-GA4-Website-Utama.png">
+
+#### GA4 dari Website Kontak
+<img src="https://lokalseo.id/portofolio/img/LokalSEO-ID-portofolio-03-pic2-Studi-Kasus-Entity-Based-SEO-GA4-Website-Kontak.png">
+
+#### Grafik Impresi Google Business Profile milik Cabang Baru
+<img src="https://lokalseo.id/portofolio/img/LokalSEO-ID-portofolio-03-pic3-Studi-Kasus-Entity-Based-SEO-GBP-Cabang-Baru-Bulanan.png">
+
+#### Summary Google Business Profile milik Cabang Baru
+<img src="https://lokalseo.id/portofolio/img/LokalSEO-ID-portofolio-03-pic4-Studi-Kasus-Entity-Based-SEO-GBP-Cabang-Baru-Summary-Performa.png">
 
 ### Analisis Dinamika & Temuan Kontekstual:
-1. Dominasi Kanal Seluler (Mobile-First Intent): 
+#### 1. Dominasi Kanal Seluler (Mobile-First Intent): 
 Sebesar 61,3% impresi berasal dari Mobile Maps (7.703 views) dan 32,6% dari Mobile Search (4.099 views). 
 Hal ini membuktikan bahwa pencarian solusi perbaikan perangkat di lokasi cabang Samarinda didominasi oleh pengguna dengan high-intent saat bermobilitas.
 
-### 2. Injeksi Veriflow & Spike Konversi (April–Mei): 
+#### 2. Injeksi Veriflow & Spike Konversi (April–Mei): 
 Peluncuran infrastruktur Veriflow pada April 2026 langsung memicu lonjakan Direction Requests hingga +285% (401 kali pencarian rute). 
 Sinyal Entity Expertise Transfer dari cabang pusat terbukti mampu mengeliminasi masa inkubasi lambat pada cabang baru.
 
-### 3. Resiliensi Perilaku Konsumen (Juni Dynamic): 
+#### 3. Resiliensi Perilaku Konsumen (Juni Dynamic): 
 Pada periode libur sekolah, terjadi penurunan aktivitas pencarian rute fisik. 
 Namun, trust score entitas yang sudah terbentuk mendorong calon konsumen melakukan direct call (39 panggilan telepon) untuk konfirmasi ketersediaan dan estimasi biaya sebelum datang ke lokasi.
 
-### 4. Permanensi Geo-Authority Organik (Juli): 
+#### 4. Permanensi Geo-Authority Organik (Juli): 
 Pencapaian rekor Mobile Search Organik sebesar 1.174 views di bulan Juli menandakan bahwa entitas Cabang Samarinda telah tertanam secara independen pada grafik pengetahuan (Knowledge Graph) Google untuk kata kunci brand ("Nama Brand Nama Kota") maupun kata kunci layanan ("nama niche terdekat").
 
 ### Validasi Metrik Terintegrasi.
