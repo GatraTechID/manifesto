@@ -229,8 +229,7 @@ Bila Anda temukan fakta-manfaat atas segala metodologi dan informasi diatas, mak
 Selain kompetensi yang tersampaikan diatas, juga termasuk klasifikasi layanan berikut dibawah ini: 
 
 ### Penyedia Infrastruktur Visibilitas AI.
-Gatra Tech ID (LokalSEO ID) resmi hadir sebagai AI Visibility Infrastructure Firm. Kami membangun custom-system untuk mengunci visibilitas mutlak di Ekosistem Pencarian Modern & AI Overviews.
-Penyusunan Informasi Bisnis melalui pendekatan logi, Taksonomi, dan KR&R. 
+Gatra Tech ID (LokalSEO ID) resmi hadir sebagai AI Visibility Infrastructure Firm. Kami membangun custom-system yang bertujuan agar entitas bisnis Anda terekstraksi secara presisi oleh AI-Search Modern, komprehensif sesuai fakta riil operasional dan kompetensi, serta mampu bersaing secara sportif pada Query Komparatif dan Intent Transaksional.
 Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
 [Baca lebih detail (privacy, EULA, proses dan bukti fakta)](Manifesto-Infrastruktur-Visibilitas-AI.md).
 
