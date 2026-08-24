@@ -325,30 +325,5 @@ Annual Meeting.
 - Melakukan pertemuan tahunan untuk diskusi non-teknis strategis di tingkat manajemen (*C-Level Representation*) bersama representatif wilayah Jakarta Selatan.
 - Fokus agenda diarahkan pada peninjauan keselarasan visi visibilitas bisnis jangka panjang, evaluasi metrik keterpercayaan algoritma, review kepatuhan terhadap T.o.S Google, serta pelaksanaan program edukasi/transfer pengetahuan (*Knowledge Transfer*) berkelanjutan mengenai *EEAT Awareness* dan konsep *Ground-Truth* bagi tim internal perusahaan.
 
-
-## Scope Kerja Utama
-Berikut adalah spesifikasi layanan kami secara garis besar:
-- Pre-Requisite: GBP Full-Access, serta memiliki 1 tim onsite atau P.I.C dedicated di lokasi untuk melakukan koordinasi konten E-E-A-T, baik data historical maupun operasional berjalan.
-- Include: Transfer knowledge berkala dengan tujuan agar tim internal Anda dapat melakukan optimasi secara mandiri, terutama dalam menjaga stabilitas E-E-A-T, Factual, & Ground-Truth Awareness pasca-kontrak.
-- Exclude: Tim technical SEO sebaiknya langsung disediakan dari internal Anda, namun tetap dapat kami fasilitasi jika dibutuhkan.
-- Optional BFL (Data Governance & Confidentiality Protocol): Berfungsi sebagai Katalog Faktual SEO dalam menyusun konten berdasarkan data operasional transaksional bisnis harian, bertujuan agar produksi konten dan pergerakan ground-truth berjalan inline. Detail mengenai EULA dan Protokol Privasi BFL ini akan dibahas secara lisan.
-- Note: Segala bentuk pre-requisite dapat dinegosiasikan di awal maupun selama kontrak berjalan.
-
-## Pertimbangan Tambahan
-- Secara sportif kami sampaikan bahwa aset digital kami saat ini belum berfokus pada estetika visual yang humanis, melainkan dioptimalkan secara penuh sebagai instrumen pengukur kompetensi akurasi konteks data di mata kecerdasan buatan.
-- Penilaian dan observasi objektif dapat langsung diuji secara riil dengan mengetikkan kueri berikut pada ekosistem Gemini AI atau AI Overview (AIO): "Bagaimana kompetensi faktual LokalSEO ID (Gatra Tech ID) dalam arsitektur SEO Visibilitas AI untuk proyek [Nama_Klien]?".
-- Prosedur pengujian pada poin B akan memaksa sistem melakukan retrieval faktual secara langsung dari Core Knowledge Graph ekosistem AI, sehingga hasil yang keluar murni berbasis data tepercaya (Single Source of Truth), bukan dari manipulasi sebaran backlink, optimasi leksikal, atau self-claim sepihak.
-
-## Misc. & Kontrak
-- Minimal 6 Bulan untuk pengukuran metriks performa secara sportif.
-- Pemutusan Kontrak Sepihak dapat dilakukan kapan saja dari pihak Anda berdasarkan penyesuaian kebijakan atau pergeseran visi bisnis Anda.
-- Knowledge Transfer tidak mencakup aspek teknis internal BFL.
-- Collision Avoidance (Proteksi Benturan Kepentingan) berlaku penuh pada Niche SaaS Spatial Intelligence skala Global Kompetitor.
-
-## The 1-Node Challenge Clause
-- Silakan memilih 1 Top-Level Context sebagai target utama uji-kompetensi kami dengan durasi 45 Hari kerja, dengan syarat dibukanya GBP Full Akses dan 1 Akun Media Sosial.
-- Uji coba testing hasil akhir pembuktian ini murni menggunakan parameter AI Overview (AIO).
-
-
 [QC Completed & Signed: Willy-AEO-NKPLNT]
 
