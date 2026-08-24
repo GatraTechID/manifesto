@@ -114,8 +114,8 @@ Baca selengkapnya dokumen [SEO untuk SaaS sektor Produk AI](SEO-untuk-SaaS-Enter
 ### Studi Kasus Industrial Hardware:
 #### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
 - SEO Native-Audit Zero-Tools Visual Digital-Spatial Market Audit. Status dokumen (on-hand klien, dalam proses antrian penysusunan manifesto).
-- [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO%20On-Fact%20Enterprise%20Masterplan%20Layer%201%20-%20LED%20Display%20Industrial%20Videotron.md).
-- [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable%20SEO%20On-Fact%20Masterplan%20Layer%201%20-%20LED%20Display%201.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
+- [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO-On_Fact-Enterprise-Masterplan-Layer-1_LED-Display-Industrial-Videotron.md).
+- [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable-SEO-On-Fact-Masterplan-Layer-1-LED-Display-1.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
 ### Studi Kasus YMYL:
 #### A. Degrasi Visibilitas dan Upaya Perbaikan. 
