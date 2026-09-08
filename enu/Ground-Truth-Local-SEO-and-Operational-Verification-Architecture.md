@@ -274,7 +274,7 @@ The Ground-Truth Operational Verification Architecture has undergone rigorous co
 * **Entity Resilience:** Zero indexation or authority degradation during major core algorithmic updates due to strict alignment with verified operational ground truth.
 
 *Case Study Documentation and Field Telemetry Logs:*  
-[On our web page using Indonesian language https://lokalseo.id/portofolio/ ]([https://lokalseo.id/portofolio/).
+[On our web page using Indonesian language https://lokalseo.id/portofolio/ ](https://lokalseo.id/portofolio/).
 
 ---
 
