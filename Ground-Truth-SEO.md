@@ -13,6 +13,15 @@ Contoh Realitas:
 - Foto estetik sebuah produk, layanan, hidangan, atau ruangan dari sebuah bisnis di Google Maps yang ternyata berbeda jauh antara foto manipulatif milik owner dengan foto riil hasil postingan pengunjung di lapangan. 
 - Jumlah ulasan negatif riil dari pelanggan yang berbanding terbalik (timpang) dengan tingginya jumlah follower serta likes kosmetik pada media sosial. 
 
+## Pilar Utama Ground-Truth dalam SEO.
+
+* Ground-Truth Pengolahan Konten SEO: Konten berkonteks tinggi yang membahas produk/layanan utama wajib menyertakan bukti visual terverifikasi (foto/video operasional asli, dokumentasi teknis, sertifikasi unit/alat) atas klaim yang tertulis.
+* Ground-Truth Dokumentasi Teknis SEO: Penerapan SEO mengacu secara ketat pada dokumentasi teknis resmi Google Search Central yang selalu terbarui.
+* Ground-Truth Audit & Akuntabilitas Bisnis:
+    - Audit visibilitas wajib menggunakan First-Party Tools resmi (Google Search Console, GA4, SERP, AI Overviews, Gemini AI).
+    - Pelacakan Konversi Transaksional: Digitalisasi transaksi bisnis diintegrasikan sebagai tolak ukur konversi SEO utama (dengan penyaringan privasi data/PII yang ketat), sehingga performa SEO diukur dari pertumbuhan transaksi riil / Revenue Growth.
+
+
 ## Korelasi dengan Local SEO: 
 UGC (User Generated Content) berupa postingan foto dan ulasan dari pengunjung, serta Postingan Relevan oleh Pemilik menjadi salah satu parameter Ground-Truth utama bagi Algoritma untuk mempercayai entitas dan menentukan ranking, sekaligus menjadi kompas valid bagi calon pelanggan berikutnya. 
 
