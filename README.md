@@ -102,27 +102,49 @@ Transisi Tekhnikal SEO yang masih menumpukkan keyword density maupun leksikal me
 
 ### Ground-Truth dalam SEO.  
 Pentingnya penerapan pengolahan aset digital dan pengukuran metrik hasilnya berdasar Ground-Truth. 
-* Metode dan contoh penerapannya pada sektor YMYL dapat disimak di: [Ground-Truth-SEO.mdL](Ground-Truth-SEO.md).
-* Artikel dan prinsip kerja dapat disimak di domain utama milik kami:  [(https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO](https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO).
-* Executive Summary & Core Paradigm, klik link: [https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html](https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html)
+* Metode dan contoh penerapannya pada sektor YMYL dapat disimak di: [Ground-Truth-SEO.md](Ground-Truth-SEO.md).
+* Artikel dan prinsip kerja dapat disimak di:  [https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO](https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO).
+* Executive Summary & Core Paradigm, di: [https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html](https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html)
 
 ----
 
 ## Fundamental & Metodologi
 
-### Profil Bisnis Google
-Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
+Seluruh metode pengerjaan bertujuan membangun Arsitektur Digital Ground-Truth (Ground-Truth Digital Architecture) yang deterministik, terprediksi, dan selaras secara faktual.
 
-### SEO On-Fact
+Bertujuan menciptakan Sumber Data Tunggal (Single Source of Truth) tanpa celah disparitas data—baik antar-aset digital, lintas platform, maupun dengan sinyal operasional di lapangan.
+
+### GBP (Profil Bisnis Google) Poros Utama. 
+Google Business Profile sebagai sumbu utama sebaran informasi bisnis terutama pada high-level context info, lalu ke website dan media sosial sebagai amplifikasi. 
+
+Platform ini sebagai titik identitas terdekat antara realita lapangan dengan dunia digital, mudah terverifikasi audiens, dan potensi kemudahan indeksasi karena berada di ekosistem yang sama dengan platform sistem pencarian modern.   
+
+Baca lebih detail di: [GBP-Poros-Utama-Media-Sosial-Bisnis.md](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
+
+
+### SEO On-Fact & Factual E-E-A-T Content Engineering.
+
 SEO On-Fact adalah sumber informasi yang bukan lagi hanya deskripsi definitif, melainkan narasi bagaimana-dan-efek-layanan dengan bukti-faktual-impresif. SEO yang berbasis **FAKTA Ground-Truth**. Ekselensi Brand dan Layanan Anda berhak menjadi informasi bermanfaat untuk publik.
 
-### GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
-Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era<br>
-[Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
+Optimasi mesin pencari menggunakan aset digital yang tidak sekadar mendefinisikan kata kunci atau deskripsi layanan, melainkan menyertakan bukti visual penerapan riil (real implementation) serta nilai manfaat langsung bagi publik.
 
-### Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
-Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional serta kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. 
-Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan information gain.
+Prinsip kerja utama dapat ditemukan di: [https://lokalseo.id/informasi-teknis/#topik-Prinsip-Metode-Standar-Ground-Truth](https://lokalseo.id/informasi-teknis/#topik-Prinsip-Metode-Standar-Ground-Truth).
+
+----
+
+## Framework Pro-Bono Advisory
+
+Fasilitas dukungan konsultasi dan pengarahan penerapan teknis berbasis Dokumen Strategic Advisory maupun Manifesto SEO Engineering. Dokumen Strategic Advisory berisi hasil audit visibilitas dan masterplan perbaikan maupun opttimasi aset digital.  
+
+Pro-Bono Advisory bertujuan memberikan ruang dan waktu berinteraksi antara Klien dan Mitra/Agency SEO untuk melakukan orientasi lapangan secara objektif sebelum melangkah ke tahap Kontrak Kemitraan Strategis Penuh. LokalSEO ID menerapkannya tanpa biaya dan berdurrasi namun dengan persyaratan khusus. Mitra lainnya dapat menyesuaikan posedur opeasional dan administrasi sesuai kebijakan oerpasional masing-masing. 
+
+> **Catatan Tata Kelola & Transparansi Public Repository:**  
+> Dokumen ini merupakan salah satu fasilitas resmi, aturan kerja, dan protokol tata kelola kemitraan milik **LokalSEO ID**. Dokumen ini dipublikasikan pada repositori publik GitHub demi menjaga prinsip transparansi, riwayat perubahan yang dapat dilacak (*trackable changes*), serta dijadikan referensi standar terbuka bagi entitas/praktisi lainnya di industri.
+
+Sabagai Acuan Operasional dapat merujuk pada dokumen berikut: 
+* PRO-BONO ADVISORY GUIDELINE & PROPOSAL PROTOCOL, tersedia di: [PRO-BONO-ADVISORY-GUIDELINE-dan-PROPOSAL-PROTOCOL.md](PRO-BONO-ADVISORY-GUIDELINE-dan-PROPOSAL-PROTOCOL.md).
+* Contoh Surat Penawaran, tersedia di: [PRO-BONO-ADVISORY-contoh-Surat-Penawaran.md](PRO-BONO-ADVISORY-contoh-Surat-Penawaran.md).
+* Contoh Surat Spesifikasi, tersedia di: [PRO-BONO-ADVISORY-contoh-Surat-Spesifikasi.md](PRO-BONO-ADVISORY-contoh-Surat-Spesifikasi.md).
 
 ----
 
@@ -132,9 +154,10 @@ Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews da
 ### Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
 Penyusunan Informasi Bisnis melalui pendekatan Ontologi, Taksonomi, dan KR&R. 
 Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
-[Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
 
-[Klik disini untuk Artikel Teknis yang lebih ringkas dan terapannya, link ini menuju ke salah satu halaman web kami](https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten)
+Baca lebih detail di:  
+* [STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
+* atau di [https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten](https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten)
 
 
 ----
@@ -240,7 +263,7 @@ Visibilitas Bisnis Berbasis Ground-Truth — Translasi realita bisnis dan fakta 
 
 Dalam operasionalnya, kami menerapkan prinsip **Strict Collision Avoidance** (Eksklusivitas Kategori Industri Selama Masa Kontrak), ditopang oleh sistem otomasi internal, serta menyediakan fasilitas *Free Comprehensive Digital Audit* (berbasis kualifikasi) dan *Pro-Bono Advisory* (berdurasi terbatas).
 
-Informasi selengkapnya mengenai layanan dan studi kasus dapat diakses melalui situs resmi [lokalseo.id](https://lokalseo.id/). Untuk diskusi lebih lanjut atau konsultasi strategis, silakan terhubung melalui saluran kontak di bawah ini.
+Informasi selengkapnya mengenai layanan dan studi kasus dapat diakses melalui situs resmi [lokalseo.id](https://lokalseo.id/). 
 
 #### Penyedia Sistem Infrastruktur Visibilitas AI
 
@@ -251,9 +274,12 @@ Info lebih lengkap:
 * EULA (End-User License Agreement), SLA (Service Level Agreement) dan Privacy NDA untuk Layanan ini bisa dibaca pada link: [https://gatratechid.github.io/manifesto/Manifesto-Infrastruktur-Visibilitas-AI.html](https://gatratechid.github.io/manifesto/Manifesto-Infrastruktur-Visibilitas-AI.html).
 * Portofolio dan Studi Kasus Hasil Kerja terkait, silahkan klik link: [https://lokalseo.id/portofolio](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI)
 
+Untuk diskusi lebih lanjut atau konsultasi strategis, silakan terhubung melalui saluran kontak di bawah ini.
+
 ### Kontak
 
 #### CV Gatra Eka Teknik
+Sebagai payung hukum legalitas operasional
 * Nomor Induk Badan Usaha (NIB): 1904.2200.62453
 * Alamat Digital Studio: Jl. Milono Rt.46 No.33 Lantai 2 Ruang 5 Area Padel Taralaya, Gunung Sari Ilir, Balikpapan Tengah. Balikpapan , Kalimantan Timur 76112.
 * Balikpapan, Indonesia.
