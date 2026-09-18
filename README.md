@@ -233,6 +233,7 @@ Entitas Distributor Rack Server.
 ----
 
 ## Tentang Kami
+Visibilitas Bisnis Berbasis Ground-Truth — Translasi realita bisnis dan fakta kompetensi lapangan menjadi aset digital terstruktur agar entitas bisnis lebih mudah ditemukan, dipahami, dan direpresentasikan oleh Ekosistem Pencarian Modern. 
 
 ### LokalSEO ID
 
