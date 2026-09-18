@@ -113,11 +113,10 @@ Pentingnya penerapan pengolahan aset digital dan pengukuran metrik hasilnya berd
 ### Profil Bisnis Google
 Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
 
-
 ### SEO On-Fact
 SEO On-Fact adalah sumber informasi yang bukan lagi hanya deskripsi definitif, melainkan narasi bagaimana-dan-efek-layanan dengan bukti-faktual-impresif. SEO yang berbasis **FAKTA Ground-Truth**. Ekselensi Brand dan Layanan Anda berhak menjadi informasi bermanfaat untuk publik.
 
-### F. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
+### GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
 Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era<br>
 [Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
 
@@ -153,8 +152,8 @@ lalu menjadikannya Arsitektur Digital menembus Visibiltas Digital Fakta Manfaat 
 6. CATATAN KRITIS AKHIR <br>
 Baca selengkapnya: [Manifesto SEO Enterprise](MANIFESTO_SEO_ENTERPRISE.md)
 
-### Studi Kasus Perusahaan SaaS:
-#### A. SEO untuk SaaS sektor Produk AI.
+## Studi Kasus Perusahaan SaaS:
+### SEO untuk SaaS sektor Produk AI.
 Strategi SEO dan Visibilitas AI yang membehas mulai dari Assessment Masalah hingga Algorithmic Trust Priority Checklist and Timeline.
 Beberapa poin utama dalam dokumen ini yaitu:
 - Ground-Truth Realignment. Seluruh konten dan aset digital wajib menyertakan unsur fakta riil yang dapat diverifikasi langsung secara organik oleh algoritma Search Engine.
@@ -163,7 +162,7 @@ Beberapa poin utama dalam dokumen ini yaitu:
 
 Baca selengkapnya dokumen [SEO untuk SaaS sektor Produk AI](SEO-untuk-SaaS-Enterprise-sektor-Produk-AI.md).
 
-#### B. SEO untuk SaaS Sektor ERP.
+### SEO untuk SaaS Sektor ERP.
 Dokumen manifesto ini merupakan "Kajian Strategis Pra-Implementasi" yang disusun berdasarkan hasil audit aset digital, visibilitas spasial, dan pemetaan peta jalan aksi (action-plan) pada sektor Enterprise SaaS.
 
 Pilar Teknis didalam dokumen ini antara lain:
@@ -178,8 +177,8 @@ Dan beberapa topik Arsitektur Data, antara lain:
 
 Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENTERPRISE)](MANIFESTO-ARSITEKTUR-DATA-dan-SEO-ENGINEERING-untuk-SAAS-ENTERPRISE.md).
 
-### Studi Kasus Industrial Hardware:
-#### A. LED DISPLAY INDUSTRIAL VIDEOTRON.
+## Studi Kasus Industrial Hardware:
+### LED DISPLAY INDUSTRIAL VIDEOTRON.
 - SEO Native-Audit Zero-Tools Visual Digital-Spatial Market Audit. Status dokumen (on-hand klien, dalam proses antrian penysusunan manifesto).
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO-On_Fact-Enterprise-Masterplan-Layer-1_LED-Display-Industrial-Videotron.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable-SEO-On-Fact-Masterplan-Layer-1-LED-Display-1.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
