@@ -95,38 +95,33 @@ Silakan simak seluruh isi dan pilar pembahasan Manifesto ini melalui daftar aset
 ----
 
 ## Paradigma Baru dalam SEO 2026
-Search Engine Optimization menjadi Search Engine Observation <br>
-yaitu dari sudut pandang teknis kami, SEO bukan lagi sekedar Optimasi namun telah menjadi Observasi Mesin Pencari.
-Ini tentang bagaimana Anda melakukan Observasi dan Bertindak untuk melakukan penyesuaian diskoneksi informasi antara SERP atau SGE dengan Bukti-Fakta Kompetensi milik Klien. <br>
-Transisi Tekhnikal SEO yang masih berisi Leksikal-Kosmetik menjadi GEO-Ready Ground-Truth Helpful-Content Semantik.
+Search Engine Optimization menjadi Search Engine Observation. 
+
+Berdasar studi kasus, SEO bukan lagi sekedar Optimasi namun telah menjadi Observasi Mesin Pencari. Hasil pencarian bersifat dinamis, maka dari itu observasi dan tindakan penyesuaian aset digital perlu dilakukan secara rutin, juga iterasi terhadap pembaruan aset digital serta ekspansinya yang berdasar metrik yang realistis maupun tools yang kredibel. 
+Transisi Tekhnikal SEO yang masih menumpukkan keyword density maupun leksikal menjadi informasi bisnis faktual terstruktur yang GEO-Ready berbasis Ground-Truth agar berpotensi memperoleh level visibiltas yang lebih strategis dan berdampak nyata pada bisnis. 
+
+### Ground-Truth dalam SEO.  
+Pentingnya penerapan pengolahan aset digital dan pengukuran metrik hasilnya berdasar Ground-Truth. 
+* Metode dan contoh penerapannya pada sektor YMYL dapat disimak di: [Ground-Truth-SEO.mdL](Ground-Truth-SEO.md).
+* Artikel dan prinsip kerja dapat disimak di domain utama milik kami:  [(https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO](https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO).
+* Executive Summary & Core Paradigm, klik link: [https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html](https://gatratechid.github.io/manifesto/enu/Ground-Truth-Local-SEO-and-Operational-Verification-Architecture.html)
 
 ----
 
 ## Fundamental & Metodologi
 
-### A. Profil Bisnis Google
+### Profil Bisnis Google
 Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
 
-### B. Ground-Truth SEO
-Definisi Ground-Truth serta korelasinya dengan SEO dan Visibilitas Bisnis di Ekosistem Pencarian.<br>
- [Baca lebih detail tentang Ground-Truth SEO dan terapannya pada sektor YMYL](Ground-Truth-SEO.md).
 
- [Klik disini untuk Artikel Teknis yang lebih ringkas dan terapannya terkait Ground-Truth SEO, link ini menuju ke salah satu halaman web kami](https://lokalseo.id/informasi-teknis/#topik-Ground-Truth-SEO)
-
-### C. SEO On-Fact
+### SEO On-Fact
 SEO On-Fact adalah sumber informasi yang bukan lagi hanya deskripsi definitif, melainkan narasi bagaimana-dan-efek-layanan dengan bukti-faktual-impresif. SEO yang berbasis **FAKTA Ground-Truth**. Ekselensi Brand dan Layanan Anda berhak menjadi informasi bermanfaat untuk publik.
-
-### D. Standarisasi Layanan Lokal SEO
-Penerapan lokal seo yang kelengkapan parameternya berbasis fakta bisnis serta memiliki konten bermanfaat sesuai kompetensi bisnis yang terjaga *freshness*-nya.
-
-### E. Standarisasi SEO On-Fact
-Penerapan SEO On-Fact pada Aset Digital milik Klien yang berfokus pada Sumber Informasi Bermanfaat sesuai ToS Ekosistem Pencarian dimana Rank, Visibilitas dan Otoritas Spatial-Market menjadi Titik Layak dan efek sportivitas. Terapan yang *clean* dan *neat* otomatis mempersiapkan bahkan meletakkan brand Anda dalam Zero-Click Era, AEO GEO. 
 
 ### F. GBP (Profil Bisnis Google) Poros Utama Medsos Bisnis, Bukan Sebaliknya.
 Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilitas SERP sesuai T.O.S Ekosistem Pencarian dalam penyempurnaan tuntas otoritas-spatial Brand Anda pada zaman AEO GEO Zero-Click Era<br>
 [Baca lebih detail tentang GBP POROS UTAMA MEDSOS BISNIS](GBP-Poros-Utama-Media-Sosial-Bisnis.md).
 
-### G. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
+### Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
 Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional serta kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. 
 Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan information gain.
 
@@ -135,7 +130,7 @@ Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan in
 ## STRATEGI VISIBILITAS AI
 Strategi Visibilitas AI yang berfokus pada ekosistem Google baik AI Overviews dan Gemini AI, serta penggunaan native-tools (GSC, GA4) sebagai metrik audit keywords.  
 
-### A. Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
+### Korelasi Visibilitas AI dengan Ontologi, Taksonomi, KR&R.
 Penyusunan Informasi Bisnis melalui pendekatan Ontologi, Taksonomi, dan KR&R. 
 Mengubah Aset Digital menjadi Dokumen Informasi Terstruktur agar Ekosistem Pencarian mengenali entitas bisnis secara spasial dan sektoral, sekaligus meningkatkan Confidence Score pada Google AI Overviews (AIO).
 [Baca lebih detail dan terapannya](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
