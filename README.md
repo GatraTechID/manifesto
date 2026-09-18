@@ -211,27 +211,6 @@ Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENT
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO-On_Fact-Enterprise-Masterplan-Layer-1_LED-Display-Industrial-Videotron.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable-SEO-On-Fact-Masterplan-Layer-1-LED-Display-1.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
-### Studi Kasus YMYL:
-#### A. Degrasi Visibilitas dan Upaya Perbaikan. 
-Tentang pelanggaran T.o.S YMYL dan upaya perbaikan. Status dokumen (dalam proses finalisasi klien).
-
-#### B. SEO On-Fact Masterplan YMYL.
-Status dokumen (dalam proses finalisasi klien).
-
-### Studi Kasus Premium Lifestyle:
-
-#### A. SEO On-Fact Masterplan F&B, Social Hub, Entertainment.
-Status dokumen (progress).
-
-----
-
-## LOCAL SEO ENTERPRISE & SPASIAL ENTITIES 
-
-### A. Fasilitas Kesehatan & Klinik Kecantikan
-Memahami YMYL dan menerapkannya pada identitas brand Fas-Kes Anda di Ekosistem Pencarian. Status dokumen (dalam proses finalisasi).
-
-### B. Spatial Entertainment & Social Hub
-Status dokumen (progress).
 
 ----
 
@@ -241,32 +220,17 @@ adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas 
 
 ----
 
-## DALAM PROSES:
+## Dalam Proses Pengolahan
 
-### SGE Global Concern
-Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, serta keterkaitannya dengan SEO AEO GEO Zero Click Era. <br>
-(dalam proses)
+### SGE DATA RECTIFICATION
+Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, juga keterkaitannya dalam AI-Search.
 
-### SEO Untuk SaaS dan Platform Cloud
-SEO Masterplan dalam format "What To Do". <br>
-(dalam rencana)
-
-### SEO Indonesia 
-SEO adalah Supremasi Ekosistem Pencarian dan Ekselensi Brand pada Aset Digital dengan terapan Fakta yang mengikuti Diplomasi Aturan Layanan sebelum menjadi Sumber Informasi Audiens.
-Brand Awareness berbasis Sportifitas Fakta. Mengejar Titik Layak Visibilitas Digital. Pengawal Kompliansi Aset Digital Brand Internasional di Indonesia.
-
-### SEO Jakarta
-Jasa SEO Jakarta adalah 
-bukan lagi perkara jasa layanan atau titel terbaik dan pakar melainkan Evolusi Integritas Agency mengawal aset digital Brand Internasional tetap berada di jalur Kepatuhan terhadap Aturan Layanan Google 
-sebelum memasuki Ekosistem Pencarian di Jakarta dan menelusuri kompetisi digital Pulau dan Regional Negeri mealalui Profil Bisnis Google. 
-GBP Poros Utama medsos-nya, Ground-Truth jalurnya, Data-Fakta-manfaat sebagai jaminan Brand Awareness.
-SEO On-Fact meteodologi nyata di depan mata, transparansi metode tersedia bagi publik dan praktisi. 
-Ini murni T.O.S dan Legacy, bukan titel Ahli tapi Diplomasi dengan Fakta sebagai Sumber Informasi.
-
-----
-
-## Manifesto Audiens Global
- [ Manifesto Berbahasa Inggris](enu/README.md)
+### SEO Sektor YMYL
+* Degrasi Visibilitas dan Upaya Perbaikan. Tentang pelanggaran T.o.S YMYL dan upaya perbaikan. Status dokumen (dalam proses finalisasi klien).
+* SEO On-Fact Masterplan YMYL.
+  
+### SEO Sektor Industrial Hardware
+Entitas Distributor Rack Server. 
 
 
 ----
