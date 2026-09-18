@@ -134,7 +134,7 @@ Prinsip kerja utama dapat ditemukan di: [https://lokalseo.id/informasi-teknis/#t
 
 ## Framework Pro-Bono Advisory
 
-Fasilitas dukungan konsultasi dan pengarahan penerapan teknis berbasis Dokumen Strategic Advisory maupun Manifesto SEO Engineering. Dokumen Strategic Advisory berisi hasil audit visibilitas dan masterplan perbaikan maupun opttimasi aset digital.  
+Fasilitas dukungan konsultasi dan pengarahan penerapan teknis berbasis Dokumen Strategic Advisory maupun Manifesto SEO Engineering. Dokumen Strategic Advisory berisi hasil audit visibilitas dan masterplan perbaikan maupun optimasi aset digital.  
 
 Pro-Bono Advisory bertujuan memberikan ruang dan waktu berinteraksi antara Klien dan Mitra/Agency SEO untuk melakukan orientasi lapangan secara objektif sebelum melangkah ke tahap Kontrak Kemitraan Strategis Penuh. LokalSEO ID menerapkannya tanpa biaya dan berdurrasi namun dengan persyaratan khusus. Mitra lainnya dapat menyesuaikan posedur opeasional dan administrasi sesuai kebijakan oerpasional masing-masing. 
 
