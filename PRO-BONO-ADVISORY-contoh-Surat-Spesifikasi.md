@@ -79,6 +79,7 @@ Pasca-masa pendampingan, Klien memiliki kebebasan penuh untuk:
    [ .......................................................................... ]
    [ .......................................................................... ]
 
-Disetujui dan Disepakati Oleh:
+Disetujui dan Disepakati Oleh pihak Klien dan Mitra
 
-Pihak Klien,                                  Pihak Mitra,
+
+[Doc. X77-FHR-doc-GTA-v1-Sept2026]
