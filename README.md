@@ -103,7 +103,6 @@ Transisi Tekhnikal SEO yang masih berisi Leksikal-Kosmetik menjadi GEO-Ready Gro
 ----
 
 ## Fundamental & Metodologi
-Beberapa poin dibawah ini bisa ditemukan di Website: [LokalSEO ID]( https://lokalseo.id).
 
 ### A. Profil Bisnis Google
 Pembahasan khusus GBP dan korelasinya terhadap SEO sebagai Ground-Truth dan Entity-Based atau Entity-Hub.
@@ -130,27 +129,6 @@ Identitas Digital Ground-Truth, sebagai Era Baru Digital Marketing di Visibilita
 ### G. Metodologi Content Engineering Berbasis Fakta Kompetensi Bisnis dan Kapasitas Operasional.  
 Menjadikan SEO lebih presisi dengan Sumber Informasi Data-Primer yang berasal dari alur natural operasional serta kompetensi bisnis yang bermanfaat untuk publik. Bukan berdasar keyword atau tools research yang berlebihan. 
 Sportif sesuai T.o.S Sistem Pencari, metrik E-E-A-T, people first content dan information gain.
-
-----
-
-## PORTOFOLIO
-
-Portofolio pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sudah tersedia di [halaman web portofolio](https://lokalseo.id/portofolio/) milik LokalSEO ID. Berikut dibawah ini yang sudah selesai diproses: 
-
-### 1. Pemulihan Akun Profil Bisnis Google (Google Business Profile).
-Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) yang ditangguhkan. Eskalasi dilakukan melalui jalur dukungan teknis resmi Forum GBP dengan bantuan Product Expert dan Google Support Team, dilanjutkan dengan optimasi berbasis "Ground-Truth".
-
-Halaman Web: [https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google](https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google).
-
-### 2. Korelasi Data Ground-Truth dan Infrastruktur Visibilitas Entitas pada Pencarian Berbasis AI.
-Mengapa Grafik Interaksi GBP Menurun di Tengah Peningkatan Sinyal Transaksional ? Karena sintesis Jawaban AI Overviews memudahkan audiens untuk mendapatkan jawaban langsung. Simak studi kasus pengerjaannya selengkapnya pada link dibawah ini.
-
-Halaman Web: [https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI).
-
-### 3. Studi Kasus Entity SEO.
-Penerapan Entity Expertise Transfer dan Historical Geo-Authority pada Cabang Bisnis Baru. Sebagai terapan metodologi transfer keahlian dan otoritas spasial pada aset digital milik Klien yang membuka cabang baru di kota yang berbeda dari kantor pusat.
-
-Halaman GitHub: [Studi-Kasus-Entity-SEO.md](Studi-Kasus-Entity-SEO.md).
 
 ----
 
@@ -217,6 +195,30 @@ Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENT
 ## SEO IKN 
 adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas Operasional ke Algoritma Aturan Layanan Google untuk menempatkan Brand Anda ke Titik Layak Visibilitas Digital di Kompetisi Digital-Spatial Nasional di IKN. Ground-Truth Integrity System.
 - [Cek Manifesto IKN](https://github.com/GatraTechID/manifesto/blob/main/Manifesto%20SEO%20Enterprise%20(Ready)%20IKN%201.0.md)
+
+----
+
+
+## PORTOFOLIO
+
+Portofolio atau studi kasus hasil dari pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sebagai bukti hasil terapan prinsip kerja dan manifesto. Kini sudah tersedia di [https://lokalseo.id/portofolio/](https://lokalseo.id/portofolio/).
+
+Berikut dibawah ini yang sudah selesai diproses: 
+
+### 1. Pemulihan Akun Profil Bisnis Google (Google Business Profile).
+Proses pengerjaan pemulihan (reinstatement) akun Google Business Profile (GBP) yang ditangguhkan. Eskalasi dilakukan melalui jalur dukungan teknis resmi Forum GBP dengan bantuan Product Expert dan Google Support Team, dilanjutkan dengan optimasi berbasis "Ground-Truth".
+
+Halaman Web: [https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google](https://lokalseo.id/portofolio/#topik-Pemulihan-Akun-Profil-Bisnis-Google).
+
+### 2. Korelasi Data Ground-Truth dan Infrastruktur Visibilitas Entitas pada Pencarian Berbasis AI.
+Mengapa Grafik Interaksi GBP Menurun di Tengah Peningkatan Sinyal Transaksional ? Karena sintesis Jawaban AI Overviews memudahkan audiens untuk mendapatkan jawaban langsung. Simak studi kasus pengerjaannya selengkapnya pada link dibawah ini.
+
+Halaman Web: [https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI](https://lokalseo.id/portofolio/#topik-Korelasi-Data-Ground-Truth-pada-Pencarian-Berbasis-AI).
+
+### 3. Studi Kasus Entity SEO.
+Penerapan Entity Expertise Transfer dan Historical Geo-Authority pada Cabang Bisnis Baru. Sebagai terapan metodologi transfer keahlian dan otoritas spasial pada aset digital milik Klien yang membuka cabang baru di kota yang berbeda dari kantor pusat.
+
+Halaman GitHub: [Studi-Kasus-Entity-SEO.md](Studi-Kasus-Entity-SEO.md).
 
 ----
 
