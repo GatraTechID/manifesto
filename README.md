@@ -15,7 +15,7 @@ Disclaimer dan Lisensi
 
 -----
 
-## Manifesto SEO Indonesia
+## MANIFESTO SEO ENGINEERING INDONESIA
 
 Rujukan teknis ini disampaikan dalam bahasa Indonesia secara komprehensif dan terapan (*actionable*), dengan tujuan agar implementasinya mampu meningkatkan visibilitas merek yang lebih strategis, terukur, serta berdampak langsung pada pertumbuhan bisnis secara transaksional.
 
