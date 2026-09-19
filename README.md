@@ -94,6 +94,12 @@ Baca lebih detail di:
 * [STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md](STRATEGI-VISIBILITAS-AI-Korelasi-Visibilitas-AI-dengan-Ontologi-Taksonomi-KRR.md).
 * atau di [https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten](https://lokalseo.id/informasi-teknis/#topik-Ontologi-Taksonomi-dalam-Konten)
 
+### Grounded Entity-Relation Communication
+Penerapan kalimat terstruktur dalam informasi yang disampaikan ke publik melalui aset digital (Google Business Profile, situs web, dan media sosial) maupun ruang digital lainnya yang dapat dipindai (*crawlable*). Bertujuan untuk memudahkan mesin pencari memahami konteks serta mempercepat proses ekstraksi (*retrieval*) saat AI Overviews dan Reasoning Engines bekerja.
+
+Sangat dianjurkan saat menyampaikan "Konteks Tingkat Tinggi" (*High-Level Context*) dengan melampirkan bukti riil yang dapat atau telah terverifikasi oleh audiens (calon pelanggan maupun mesin).
+
+Baca selengkapnya di: [https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication](https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication)
 
 ----
 
