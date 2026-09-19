@@ -7,39 +7,11 @@ Dokumen ini menyajikan transparansi metodologi **SEO On-Fact** dan **Digital Gro
 -----
 
 ## Navigasi Halaman Ini
-### Tentang Manifesto
-[Tentang Manifesto Ini](#tentang-manifesto-ini)
-* [Pesan Utama](#pesan-utama), [Tujuan Utama](#tujuan-utama) 
+Tentang Manifesto
+* [Tentang Manifesto Ini](#tentang-manifesto-ini), [Pesan Utama](#pesan-utama), [Tujuan Utama](#tujuan-utama), [Bagaimana Manifesto Ini Disusun](#bagaimana-manifesto-ini-disusun), [Atribusi](#atribusi), [Tentang Kami](#tentang-kami).
 
-### Isi Manifesto
-
-----
-
-## Disclaimer dan Lisensi
-
-### Disclaimer
-
-* **Observasi & Studi Kasus Independen**
-  Seluruh metode yang dipaparkan dalam dokumen ini merupakan formulasi dari hasil observasi, uji klinis internal, dan studi kasus independen yang teruji secara faktual di lapangan (*SEO On-Fact*).
-
-* **Formulasi & Terminologi Mandiri**
-  Istilah, akronim, serta konsep arsitektural yang digunakan di seluruh aset dokumen ini merupakan terminologi mandiri yang dirancang oleh tim penyusun, dan bukan merupakan istilah resmi yang diterbitkan oleh pemilik platform mesin pencari mana pun.
-
-* **Dinamika Algoritma & Independensi Platform**
-  Platform pencarian pihak ketiga memiliki mekanisme kueri, pembaharuan algoritma, serta kebijakan privasi independen yang dapat berubah sewaktu-waktu tanpa pemberitahuan dalam menentukan penjangkaran dan penyajian jawaban terbaik bagi penggunanya.
-
-
-### Lisensi (Penggunaan & Attribution)
-
-Seluruh audiens, praktisi, dan entitas bisnis yang mengakses manifesto ini diberikan hak secara bebas untuk mempelajari, mendokumentasikan, dan mengimplementasikannya dalam pengolahan aset digital internal maupun portofolio klien.
-
-Penyertaan sitasi, penerbitan ulang (*re-publishing*), atau penulisan ulang (*re-writing*) dapat dilakukan secara terbuka. Sangat disarankan untuk menyertakan atribusi sumber kepada **LokalSEO ID** dan **Gatra Tech ID** demi menjaga integritas silsilah data (*data lineage*).
-
-
-### Pengecualian (*Exclusion*)
-
-Dokumen Manifesto ini tidak menyertakan spesifikasi teknis, kode sumber, atau arsitektur mendalam dari sistem otomasi **BFL Veriflow** beserta *engine* turunannya. Modul dan logika pemrosesan internal tersebut merupakan Hak Kekayaan Intelektual (*Intellectual Property*) yang dilindungi milik LokalSEO ID, dan hanya diimplementasikan secara profesional melalui skema kemitraan resmi.
-
+Disclaimer dan Lisensi
+* [Disclaimer](#disclaimer), [Lisensi Penggunaan dan Attribution](#lisensi-penggunaan--attribution), [Pengecualian](#pengecualian-exclusion).
 
 -----
 
@@ -260,6 +232,34 @@ Manifesto ini dirumuskan berdasarkan observasi independen, analisis studi kasus,
 
 Disusun oleh **Gatra Tech ID** bersama sub-brand resminya, **LokalSEO ID**. 
 Berlatar belakang disiplin ilmu Teknologi Informasi, *Software Engineering* (SWE), dan Integrasi Sistem AI, kami menghadirkan sudut pandang rekayasa data (*data engineering*) tentang bagaimana informasi operasional bisnis diolah menjadi aset digital terstruktur dengan prinsip *Single Source of Truth* (SSoT) serta representasi data *Ground-Truth* yang presisi.
+
+----
+
+## Disclaimer dan Lisensi
+
+### Disclaimer
+
+* **Observasi & Studi Kasus Independen**
+  Seluruh metode yang dipaparkan dalam dokumen ini merupakan formulasi dari hasil observasi, uji klinis internal, dan studi kasus independen yang teruji secara faktual di lapangan (*SEO On-Fact*).
+
+* **Formulasi & Terminologi Mandiri**
+  Istilah, akronim, serta konsep arsitektural yang digunakan di seluruh aset dokumen ini merupakan terminologi mandiri yang dirancang oleh tim penyusun, dan bukan merupakan istilah resmi yang diterbitkan oleh pemilik platform mesin pencari mana pun.
+
+* **Dinamika Algoritma & Independensi Platform**
+  Platform pencarian pihak ketiga memiliki mekanisme kueri, pembaharuan algoritma, serta kebijakan privasi independen yang dapat berubah sewaktu-waktu tanpa pemberitahuan dalam menentukan penjangkaran dan penyajian jawaban terbaik bagi penggunanya.
+
+
+### Lisensi (Penggunaan & Attribution)
+
+Seluruh audiens, praktisi, dan entitas bisnis yang mengakses manifesto ini diberikan hak secara bebas untuk mempelajari, mendokumentasikan, dan mengimplementasikannya dalam pengolahan aset digital internal maupun portofolio klien.
+
+Penyertaan sitasi, penerbitan ulang (*re-publishing*), atau penulisan ulang (*re-writing*) dapat dilakukan secara terbuka. Sangat disarankan untuk menyertakan atribusi sumber kepada **LokalSEO ID** dan **Gatra Tech ID** demi menjaga integritas silsilah data (*data lineage*).
+
+
+### Pengecualian (*Exclusion*)
+
+Dokumen Manifesto ini tidak menyertakan spesifikasi teknis, kode sumber, atau arsitektur mendalam dari sistem otomasi **BFL Veriflow** beserta *engine* turunannya. Modul dan logika pemrosesan internal tersebut merupakan Hak Kekayaan Intelektual (*Intellectual Property*) yang dilindungi milik LokalSEO ID, dan hanya diimplementasikan secara profesional melalui skema kemitraan resmi.
+
 
 ----
 
