@@ -9,6 +9,7 @@ Dokumen ini menyajikan transparansi metodologi **SEO On-Fact** dan **Digital Gro
 ## Navigasi Halaman Ini
 ### Tentang Manifesto
 [Tentang Manifesto Ini](#tentang-manifesto-ini)
+* [Pesan Utama](#pesan-utama), [Tujuan Utama](#tujuan-utama) 
 
 ### Isi Manifesto
 
@@ -215,7 +216,7 @@ Entitas Distributor Rack Server.
 
 -----
 
-## Tentang Msnifesto Ini
+## Tentang Manifesto Ini
 
 ### Pesan Utama
 
