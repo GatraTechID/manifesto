@@ -4,51 +4,13 @@ Referensi teknis untuk penerapan visibilitas di ruang digital pencarian publik b
 
 Dokumen ini menyajikan transparansi metodologi **SEO On-Fact** dan **Digital Ground-Truth Architecture** untuk publik, pelaku bisnis, serta para praktisi dalam industri SEO. Disusun secara komprehensif dan berformat panduan terapan (*actionable*) agar dapat menjadi standar praktik optimasi tingkat lanjut di Indonesia.
 
+-----
 
-## Tentang Manifesto Ini
+## Navigasi Halaman Ini
+### [Tentang Manifesto](#tentang-manifesto)
+[Tentang Manifesto](#tentang-manifesto)
 
-### Pesan Utama
-
-Manifesto ini mengajak pelaku bisnis (B2B, Enterprise) dan industri SEO untuk menyusun informasi bisnis serta konten dengan menerapkan prinsip-prinsip berikut:
-
-* **Mengutamakan Manusia (People-First Content)**
-  Informasi dibangun secara otentik untuk menjawab intensi (*user intent*) audiens, bukan sekadar mengejar peringkat kueri tertentu tanpa disertai bukti kompetensi dan kredibilitas entitas yang nyata.
-
-* **Beradaptasi dengan AI dan Semantic SEO**
-  * Memahami kapabilitas platform pencarian modern di era *zero-click* dan *AI-driven search* (AEO/AI Overviews) dalam mencerna konteks entitas.
-  * Membangun otoritas entitas yang kuat sehingga informasi dapat terserap oleh mesin pencari tanpa pemborosan kata kunci (*keyword stuffing*) atau sebaran aset tidak efisien yang berisiko mengikis otoritas topikal (*topical authority*).
-  * Menggunakan Generative AI secara bijak sebagai alat bantu pengolahan, yang wajib ditopang oleh informasi terbarukan dari realitas lapangan (*Ground-Truth*), bukan sekadar regenerasi atau otomasi konten massal (*regurgitation*).
-
-* **Menerapkan Standar Kepercayaan Tinggi (E-E-A-T)**
-  Mengimplementasikan metrik *Experience, Expertise, Authoritativeness, and Trustworthiness* secara ketat pada seluruh konten, terutama pada sektor berdampak tinggi (*Your Money or Your Life / YMYL*) yang membutuhkan kedalaman data serta presisi ekstra.
-
-* **Menyelaraskan Strategi Bisnis dan Kolaborasi Internal**
-  Strategi SEO tidak lagi berdiri sebagai silo terisolasi, melainkan hasil kolaborasi lintas tim (konten, pemasaran, operasional lapangan) yang selaras dengan visi bisnis. Strategi ini juga melibatkan tim manajemen (pemilik bisnis, C-Level) untuk menjaga keseimbangan antara transparansi publik dan perlindungan privasi data internal.
-
-* **Memahami Lanskap Unik Indonesia (Social SEO & Spatial Authority)**
-  Merespons perilaku pencarian audiens Indonesia yang dinamis dengan menggabungkan SEO konvensional dan sinyal Media Sosial (*Social SEO*). Kombinasi ini bertujuan untuk menjaring audiens spasial/lokal sembari tetap menjaga keseimbangan metrik E-E-A-T antar-platform secara terintegrasi.
-
-
-### Tujuan Utama
-
-Manifesto ini berfungsi sebagai panduan kesiapan di era AI Search bagi entitas bisnis agar memiliki pemahaman bahwa:
-- Konten yang ditopang oleh fakta kompetensi riil lapangan memiliki daya tahan lebih tinggi dan secara sistematis menghindari praktik manipulatif (*black-hat/spam SEO*).
-- Tingkat kematangan penyebaran informasi dicapai ketika seluruh atribusi dasar bisnis telah tervalidasi, kemudian diperkuat oleh bukti implementasi serta studi kasus nyata untuk menjawab permasalahan spesifik audiens.
-- Pemahaman atas hierarki entitas dan jangkauan spasial sangat penting: entitas global, nasional, maupun lokal memiliki domain otoritas geografis logis masing-masing yang harus dioptimasi secara tepat.
-- Penerapan arsitektur data yang presisi menghasilkan aset digital yang mudah terverifikasi oleh audiens, kredibel di mata mesin, serta tangguh terhadap pembaruan algoritma (*algorithm update resilience*).
-- Penggunaan *1st-party tools* dan sinyal transaksi riil lapangan menjadi tolok ukur objektif dalam mengukur dampak SEO bagi pertumbuhan bisnis.
-- Terjadinya transfer pengetahuan (*knowledge transfer*) agar entitas bisnis memiliki kapabilitas mandiri dalam mengolah, menerbitkan, mengiterasi, serta mengaudit konten informasi bisnisnya secara berkelanjutan.
-
-
-### Bagaimana Manifesto Ini Disusun
-
-Manifesto ini dirumuskan berdasarkan observasi independen, analisis studi kasus, serta akumulasi portofolio kerja yang telah melewati proses penyaringan privasi (*data privacy filter*) secara ketat. Entitas bisnis yang menjadi objek pengamatan berasal dari riset mandiri, audit aset digital berbasis permintaan, hingga kegiatan konsultasi pro-bono (*pro-bono advisory*).
-
-
-### Atribusi
-
-Disusun oleh **Gatra Tech ID** bersama sub-brand resminya, **LokalSEO ID**. 
-Berlatar belakang disiplin ilmu Teknologi Informasi, *Software Engineering* (SWE), dan Integrasi Sistem AI, kami menghadirkan sudut pandang rekayasa data (*data engineering*) tentang bagaimana informasi operasional bisnis diolah menjadi aset digital terstruktur dengan prinsip *Single Source of Truth* (SSoT) serta representasi data *Ground-Truth* yang presisi.
+### Isi Manifesto
 
 ----
 
@@ -251,6 +213,52 @@ Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, juga
 ### SEO Sektor Industrial Hardware
 Entitas Distributor Rack Server. 
 
+-----
+
+## {#tentang-manifesto} Tentang Manifesto Ini
+
+### Pesan Utama
+
+Manifesto ini mengajak pelaku bisnis (B2B, Enterprise) dan industri SEO untuk menyusun informasi bisnis serta konten dengan menerapkan prinsip-prinsip berikut:
+
+* **Mengutamakan Manusia (People-First Content)**
+  Informasi dibangun secara otentik untuk menjawab intensi (*user intent*) audiens, bukan sekadar mengejar peringkat kueri tertentu tanpa disertai bukti kompetensi dan kredibilitas entitas yang nyata.
+
+* **Beradaptasi dengan AI dan Semantic SEO**
+  * Memahami kapabilitas platform pencarian modern di era *zero-click* dan *AI-driven search* (AEO/AI Overviews) dalam mencerna konteks entitas.
+  * Membangun otoritas entitas yang kuat sehingga informasi dapat terserap oleh mesin pencari tanpa pemborosan kata kunci (*keyword stuffing*) atau sebaran aset tidak efisien yang berisiko mengikis otoritas topikal (*topical authority*).
+  * Menggunakan Generative AI secara bijak sebagai alat bantu pengolahan, yang wajib ditopang oleh informasi terbarukan dari realitas lapangan (*Ground-Truth*), bukan sekadar regenerasi atau otomasi konten massal (*regurgitation*).
+
+* **Menerapkan Standar Kepercayaan Tinggi (E-E-A-T)**
+  Mengimplementasikan metrik *Experience, Expertise, Authoritativeness, and Trustworthiness* secara ketat pada seluruh konten, terutama pada sektor berdampak tinggi (*Your Money or Your Life / YMYL*) yang membutuhkan kedalaman data serta presisi ekstra.
+
+* **Menyelaraskan Strategi Bisnis dan Kolaborasi Internal**
+  Strategi SEO tidak lagi berdiri sebagai silo terisolasi, melainkan hasil kolaborasi lintas tim (konten, pemasaran, operasional lapangan) yang selaras dengan visi bisnis. Strategi ini juga melibatkan tim manajemen (pemilik bisnis, C-Level) untuk menjaga keseimbangan antara transparansi publik dan perlindungan privasi data internal.
+
+* **Memahami Lanskap Unik Indonesia (Social SEO & Spatial Authority)**
+  Merespons perilaku pencarian audiens Indonesia yang dinamis dengan menggabungkan SEO konvensional dan sinyal Media Sosial (*Social SEO*). Kombinasi ini bertujuan untuk menjaring audiens spasial/lokal sembari tetap menjaga keseimbangan metrik E-E-A-T antar-platform secara terintegrasi.
+
+
+### Tujuan Utama
+
+Manifesto ini berfungsi sebagai panduan kesiapan di era AI Search bagi entitas bisnis agar memiliki pemahaman bahwa:
+- Konten yang ditopang oleh fakta kompetensi riil lapangan memiliki daya tahan lebih tinggi dan secara sistematis menghindari praktik manipulatif (*black-hat/spam SEO*).
+- Tingkat kematangan penyebaran informasi dicapai ketika seluruh atribusi dasar bisnis telah tervalidasi, kemudian diperkuat oleh bukti implementasi serta studi kasus nyata untuk menjawab permasalahan spesifik audiens.
+- Pemahaman atas hierarki entitas dan jangkauan spasial sangat penting: entitas global, nasional, maupun lokal memiliki domain otoritas geografis logis masing-masing yang harus dioptimasi secara tepat.
+- Penerapan arsitektur data yang presisi menghasilkan aset digital yang mudah terverifikasi oleh audiens, kredibel di mata mesin, serta tangguh terhadap pembaruan algoritma (*algorithm update resilience*).
+- Penggunaan *1st-party tools* dan sinyal transaksi riil lapangan menjadi tolok ukur objektif dalam mengukur dampak SEO bagi pertumbuhan bisnis.
+- Terjadinya transfer pengetahuan (*knowledge transfer*) agar entitas bisnis memiliki kapabilitas mandiri dalam mengolah, menerbitkan, mengiterasi, serta mengaudit konten informasi bisnisnya secara berkelanjutan.
+
+
+### Bagaimana Manifesto Ini Disusun
+
+Manifesto ini dirumuskan berdasarkan observasi independen, analisis studi kasus, serta akumulasi portofolio kerja yang telah melewati proses penyaringan privasi (*data privacy filter*) secara ketat. Entitas bisnis yang menjadi objek pengamatan berasal dari riset mandiri, audit aset digital berbasis permintaan, hingga kegiatan konsultasi pro-bono (*pro-bono advisory*).
+
+
+### Atribusi
+
+Disusun oleh **Gatra Tech ID** bersama sub-brand resminya, **LokalSEO ID**. 
+Berlatar belakang disiplin ilmu Teknologi Informasi, *Software Engineering* (SWE), dan Integrasi Sistem AI, kami menghadirkan sudut pandang rekayasa data (*data engineering*) tentang bagaimana informasi operasional bisnis diolah menjadi aset digital terstruktur dengan prinsip *Single Source of Truth* (SSoT) serta representasi data *Ground-Truth* yang presisi.
 
 ----
 
