@@ -12,7 +12,7 @@ Dengan Catatan Penting:
 * [Disclaimer dan Batasan](#disclaimer) tetap berlaku.
 * Pada kontrak strategis mitra bersama entitas kami maka **Collision-Avoidance** tetap berlaku, detail ada di [Website LokalSEO ID](https://lokalseo.id/#sub-section-Strict-Collision-Avoidance)
 
-Silahkan simak isi manifesto, sesuaikan dengan kebijakan internal perusahhan Anda dan terapkan pada pengolqhan aset digital bisnis maupun konten Anda.
+Silahkan simak isi manifesto, sesuaikan dengan kebijakan internal perusahaan Anda dan terapkan pada pengolahan aset digital bisnis maupun konten Anda.
 
 -----
 
