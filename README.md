@@ -4,6 +4,16 @@ Referensi teknis untuk penerapan visibilitas di ruang digital pencarian publik b
 
 Dokumen ini menyajikan transparansi metodologi **SEO On-Fact** dan **Digital Ground-Truth Architecture** untuk publik, pelaku bisnis, serta para praktisi dalam industri SEO. Disusun secara komprehensif dan berformat panduan terapan (*actionable*) agar dapat menjadi standar praktik optimasi tingkat lanjut di Indonesia.
 
+## Replikasi dan Reproduksi Metodologi
+
+Portofolio atau laporan hasil pengerjaan yang disampaikan pada bagian [PORTOFOLIO HASIL PENGERJAAN](#portofolio-hasil-pengerjaan) terutama Nomor 3, adalah bukti bahwa prinsip dan metodologi yang tersampaikan pada manifesto ini dapat direplikasi dan direproduksi serta teruji. 
+
+Dengan Catatan Penting: 
+* [Disclaimer dan Batasan](#disclaimer) tetap berlaku.
+* Pada kontrak strategis mitra bersama entitas kami maka **Collision-Avoidance** tetap berlaku, detail ada di [Website LokalSEO ID](https://lokalseo.id/#sub-section-Strict-Collision-Avoidance)
+
+Silahkan simak isi manifesto, sesuaikan dengan kebijakan internal perusahhan Anda dan terapkan pada pengolqhan aset digital bisnis maupun konten Anda.
+
 -----
 
 ## Navigasi Halaman Ini
@@ -157,7 +167,7 @@ adalah Diplomasi Sportif berbasis Fakta-Manfaat Kompetensi Bisnis dan Kapasitas 
 ----
 
 
-## PORTOFOLIO
+## PORTOFOLIO HASIL PENGERJAAN
 
 Portofolio atau studi kasus hasil dari pengerjaan SEO Engineering dan Infrastruktur Visibilitas AI sebagai bukti hasil terapan prinsip kerja dan manifesto. Kini sudah tersedia di [https://lokalseo.id/portofolio/](https://lokalseo.id/portofolio/).
 
@@ -254,6 +264,7 @@ Berlatar belakang disiplin ilmu Teknologi Informasi, *Software Engineering* (SWE
 * **Dinamika Algoritma & Independensi Platform**
   Platform pencarian pihak ketiga memiliki mekanisme kueri, pembaharuan algoritma, serta kebijakan privasi independen yang dapat berubah sewaktu-waktu tanpa pemberitahuan dalam menentukan penjangkaran dan penyajian jawaban terbaik bagi penggunanya.
 
+* **Batasan Hirarkis Realita Lapangan**. Pencapaian visibilitas tunduk pada hirarki fakta operasional di lapangan. Secara alami, entitas Global memiliki keunggulan atas entitas Domestik, dan entitas Domestik memiliki keunggulan faktual atas entitas Lokal.
 
 ### Lisensi (Penggunaan & Attribution)
 
