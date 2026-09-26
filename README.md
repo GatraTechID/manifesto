@@ -111,6 +111,13 @@ Sangat dianjurkan saat menyampaikan "Konteks Tingkat Tinggi" (*High-Level Contex
 
 Baca selengkapnya di: [https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication](https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication)
 
+### Grounded Visual Semantic Communication dalam Ground-Truth SEO
+Di era Multimodal AI dan Computer Vision (Google Lens, Vision API, Gemini), media visual bukan lagi sekadar pemanis tampilan. Sistem pencarian modern membaca objek visual secara semantik untuk memvalidasi Ground-Truth dan E-E-A-T entitas bisnis.
+
+Foto tanpa logo, tanpa identitas seragam, atau ruang generik tanpa kedalaman konteks operasional berpotensi dilabeli sebagai *stock photo* atau *generic noise*, baik oleh audiens maupun algoritma.
+
+Baca selengkapnya di: [Grounded-Visual-Semantic-Communication-dalam-Ground-Truth-SEO.md](Grounded-Visual-Semantic-Communication-dalam-Ground-Truth-SEO.md)
+
 ----
 
 ## SEO ENTERPRISE
