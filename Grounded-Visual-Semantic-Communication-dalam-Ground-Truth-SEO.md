@@ -17,10 +17,10 @@ Penerapan aset visual yang presisi bertujuan mempermudah pemahaman audiens, memp
 ## Grounded Visual Semantic Communication dalam Ground-Truth SEO
   Penerapan Visual Semantik dan Kontekstualisasi Aset Media berbasis realita bisnis (data operasional, bukti faktual, dan nilai guna) agar informasi dapat dipahami serta diverifikasi secara presisi oleh manusia dan mesin.
 
-  **Tujuan Utama:**
-    1. Memenuhi *user intent* dan relevansi bisnis melalui bukti visual faktual yang dapat diverifikasi.
-    2. Meningkatkan efisiensi serta sebaran aset media autentik di ruang publik dari dokumentasi lapangan asli—bukan *stock photo* atau hasil regurgitasi Generative AI.
-    3. Memperkuat *entity trust* untuk mendorong potensi visibilitas pada ekosistem pencarian modern.
+**Tujuan Utama:**
+* Memenuhi *user intent* dan relevansi bisnis melalui bukti visual faktual yang dapat diverifikasi.
+* Meningkatkan efisiensi serta sebaran aset media autentik di ruang publik dari dokumentasi lapangan asli—bukan *stock photo* atau hasil regurgitasi Generative AI.
+* Memperkuat *entity trust* untuk mendorong potensi visibilitas pada ekosistem pencarian modern.
 
 <img src="https://lokalseo.id/informasi-teknis/img/LokalSEO-ID-topik-Grounded-Visual-Semantic-Communication-skema-metode-dan-terapan.png">
 
@@ -34,9 +34,9 @@ Penerapan aset visual yang presisi bertujuan mempermudah pemahaman audiens, memp
 - **Visual Search Integration:** Dukungan pencarian berbasis gambar pada Search Bar, Google Lens, AI Overviews, hingga Gemini AI.
 
 ### Pola Tampilan pada SERP & Social Media Interception
-  Pada *exact query* nama brand, snippet GBP, tab gambar, maupun tautan media sosial, algoritma cenderung mendahulukan aset visual dengan kedalaman konteks operasional dibandingkan gambar olahan estetik yang berlebihan:
-    - **Tab Gambar SERP:** Menampilkan aset yang kaya sinyal spasial dan kontekstual.
-    - **Snippet Medsos (Carousel/Video):** Algorithmic selection secara otomatis memilih slide foto atau cuplikan video yang paling relevan dengan intent kueri.
+Pada *exact query* nama brand, snippet GBP, tab gambar, maupun tautan media sosial, algoritma cenderung mendahulukan aset visual dengan kedalaman konteks operasional dibandingkan gambar olahan estetik yang berlebihan:
+- **Tab Gambar SERP:** Menampilkan aset yang kaya sinyal spasial dan kontekstual.
+- **Snippet Medsos (Carousel/Video):** Algorithmic selection secara otomatis memilih slide foto atau cuplikan video yang paling relevan dengan intent kueri.
 
 ### Orientasi Algoritma pada Google Business Profile (GBP)
 - **Prioritas Tampilan:** Urutan foto mendahulukan sinyal faktual dan manfaat (*helpful*) ketimbang sekadar foto terbaru dengan relevansi rendah atau duplikasi konteks.
@@ -50,15 +50,15 @@ Penerapan aset visual yang presisi bertujuan mempermudah pemahaman audiens, memp
 
 ## Masalah dan Dampak
 
-  Praktik penyertaan aset media yang kurang presisi di dalam konten meliputi:
-    - Penggunaan *stock photo* atau gambar sintetis buatan Generative AI.
-    - Dokumentasi produk, layanan, atau aktivitas operasional tanpa identitas visual yang jelas (tanpa logo, seragam kerja, atau plang nama fisik).
-    - Klaim pencapaian, penghargaan, atau sertifikasi yang hanya menampilkan logo penyelenggara tanpa bukti visual dokumen riil atau nomor verifikasi yang valid.
+Praktik penyertaan aset media yang kurang presisi di dalam konten meliputi:
+- Penggunaan *stock photo* atau gambar sintetis buatan Generative AI.
+- Dokumentasi produk, layanan, atau aktivitas operasional tanpa identitas visual yang jelas (tanpa logo, seragam kerja, atau plang nama fisik).
+- Klaim pencapaian, penghargaan, atau sertifikasi yang hanya menampilkan logo penyelenggara tanpa bukti visual dokumen riil atau nomor verifikasi yang valid.
 
-  Kekurangan presisi tersebut berpotensi menimbulkan dampak negatif:
-    - **Informational Noise:** Penambahan aset visual yang tidak memberi nilai manfaat (*helpful value*) bagi audiens.
-    - **Risiko Moderasi Algoritma:** Tindakan pengunggahan gambar generik atau duplikat secara berulang di GBP dan Google Maps dapat memicu *spam detector* hingga penolakan (*rejected post*).
-    - **Pembiasan Entitas (Entity Dilution):** Menurunkan tingkat otoritas, kredibilitas, dan *trustworthiness* brand di mata audiens maupun sistem pencarian modern.
+Kekurangan presisi tersebut berpotensi menimbulkan dampak negatif:
+- **Informational Noise:** Penambahan aset visual yang tidak memberi nilai manfaat (*helpful value*) bagi audiens.
+- **Risiko Moderasi Algoritma:** Tindakan pengunggahan gambar generik atau duplikat secara berulang di GBP dan Google Maps dapat memicu *spam detector* hingga penolakan (*rejected post*).
+- **Pembiasan Entitas (Entity Dilution):** Menurunkan tingkat otoritas, kredibilitas, dan *trustworthiness* brand di mata audiens maupun sistem pencarian modern.
 
 ## Penerapan Taktis
 
