@@ -134,6 +134,14 @@ Penerapan protokol ini dapat diukur melalui peningkatan akurasi **Labeling Googl
    - **Brand & Niche Retrieval:** Terpilihnya poin-poin informasi yang didukung aset media faktual sebagai sumber sitasi utama AI Overviews.
    - **Kueri Komparatif:** Terangkatnya entitas pada pencarian komparatif berkat adanya bukti visual dari rekam jejak operasional terdahulu.
 
+### Contoh Implementasi dan Metrik Hasil
+
+Contoh implementasi dan hasil penerapan "Penyampaian Bukti Informasi NIB" pada aset media saat posting dapat ditemukan pada link: [https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication](https://lokalseo.id/informasi-teknis/#topik-Grounded-Entity-Relation-Communication) pada bagian "Pengujian & Indikator Hasil".
+
+Atau pada gambar berikut: 
+<img src="https://lokalseo.id/informasi-teknis/img/Grounded%20Entity-Relation-Communication_04_Contoh-Implementasi-dan-Hasil.png">
+
+
 ---
 
 ## Catatan Khusus & Batasan Regulasi
