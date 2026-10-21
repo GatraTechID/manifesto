@@ -25,12 +25,12 @@ Pendekatan ini menyisakan risiko optimasi berlebihan (over-optimization) yang me
 
 ## Validasi Masalah dan Kesiapan Platform
     
-    Pasar, teknologi, dan ekosistem pencarian modern telah bergeser secara masif ke era kecerdasan buatan (AI). Platform pencari terus memperbarui aturan, mekanisme, serta standar kualitasnya demi menyajikan jawaban yang paling akurat dan terverifikasi kepada publik.
+Pasar, teknologi, dan ekosistem pencarian modern telah bergeser secara masif ke era kecerdasan buatan (AI). Platform pencari terus memperbarui aturan, mekanisme, serta standar kualitasnya demi menyajikan jawaban yang paling akurat dan terverifikasi kepada publik.
 
 ### Pergeseran Sudut Pandang: Analogi Sumber Informasi (Single Source of Truth)
     
-    Di era AI, aset digital bukan lagi sekadar katalog online, melainkan representasi fakta operasional bisnis yang menjadi sumber informasi terpercaya bagi publik.
-    Ketiadaan sumber data tunggal (Single Source of Truth), ketidakselarasan, serta disparitas informasi lintas aset digital akan membuat audiens manusia maupun mesin pencari bingung dalam menentukan tingkat kepercayaan dan nilai faktual entitas bisnis tersebut.
+Di era AI, aset digital bukan lagi sekadar katalog online, melainkan representasi fakta operasional bisnis yang menjadi sumber informasi terpercaya bagi publik.
+Ketiadaan sumber data tunggal (Single Source of Truth), ketidakselarasan, serta disparitas informasi lintas aset digital akan membuat audiens manusia maupun mesin pencari bingung dalam menentukan tingkat kepercayaan dan nilai faktual entitas bisnis tersebut.
 
 Contoh Analogi Ketidakselarasan Data:
     - Perbedaan nominal antara uang tunai di laci kasir (cash drawer) dengan data pada aplikasi pencatatan kasir akan langsung memicu krisis kepercayaan antara tim operasional lapangan dan manajemen.
