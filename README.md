@@ -166,6 +166,7 @@ Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENT
 
 ### RACK SERVER.
 - [SEO_Industrial_Rack_Server_01_Validasi-Masalah](SEO_Industrial_Rack_Server_01_Validasi-Masalah.md).
+- [SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan](SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan.md).
 
 ----
 
