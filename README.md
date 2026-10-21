@@ -159,17 +159,20 @@ Dan beberapa topik Arsitektur Data, antara lain:
 Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENTERPRISE)](MANIFESTO-ARSITEKTUR-DATA-dan-SEO-ENGINEERING-untuk-SAAS-ENTERPRISE.md).
 
 ## Studi Kasus Industrial Hardware:
-### LED DISPLAY INDUSTRIAL VIDEOTRON.
+### LED DISPLAY INDUSTRIAL VIDEOTRON
 - SEO Native-Audit Zero-Tools Visual Digital-Spatial Market Audit. Status dokumen (on-hand klien, dalam proses antrian penysusunan manifesto).
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO-On_Fact-Enterprise-Masterplan-Layer-1_LED-Display-Industrial-Videotron.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable-SEO-On-Fact-Masterplan-Layer-1-LED-Display-1.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
-### RACK SERVER.
+### RACK SERVER
 - [SEO_Industrial_Rack_Server_01_Validasi-Masalah](SEO_Industrial_Rack_Server_01_Validasi-Masalah.md).
 - [SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan](SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan.md).
 - Dokumen 03 yaitu Dokumen Hasil Audit Tidak Disertakan.
 - [SEO_Industrial_Rack_Server_04_Rekomendasi_GBP](SEO_Industrial_Rack_Server_04_Rekomendasi_GBP.md).
 - [SEO_Industrial_Rack_Server_05_Rekomendasi_Website](SEO_Industrial_Rack_Server_05_Rekomendasi_Website.md).
+- [SEO_Industrial_Rack_Server_06_Metrik_Indikator_Hasil-dan-Penutup](SEO_Industrial_Rack_Server_06_Metrik_Indikator_Hasil-dan-Penutup.md).
+
+Versi Dokumen SEO untuk Rack Server: [Doc. X77-FHR-doc-GTA-v1-Sept2026]
 
 ----
 
