@@ -164,6 +164,8 @@ Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENT
 - [SEO On-Fact Enterprise Masterplan Layer 1 - LED Display](SEO-On_Fact-Enterprise-Masterplan-Layer-1_LED-Display-Industrial-Videotron.md).
 - [Actionable SEO On-Fact Masterplan Layer 1 - LED Display](Actionable-SEO-On-Fact-Masterplan-Layer-1-LED-Display-1.0.md) disini tersedia Contoh Skenario GBP Info Terbaru oleh Pemilik.<br>
 
+### RACK SERVER.
+- [SEO_Industrial_Rack_Server_01_Validasi-Masalah](SEO_Industrial_Rack_Server_01_Validasi-Masalah.md).
 
 ----
 
