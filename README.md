@@ -339,7 +339,14 @@ Bertindak sebagai brand utama yang berfokus pada topik software house, integrasi
 * Telepon: 089690479015
 * Email: bisnis@gatraekateknik.co.id atau gatraekateknik@gmail.com 
 * Media Sosial: [@gatratech_id](https://www.instagram.com/gatratech_id/) kedepannya akan berbagi informasi untuk audiens terkait topik software house, integrasi AI dan infrastruktur.
- 
+
+### Person
+#### Galie Widartanto 
+Adalah Co-Founder dari Gatra Tech ID dan LokalSEO ID.
+* Biodata dan artikelnya sebagai Praktisi Teknologi (AI Search): [https://widartanto.github.io/](https://widartanto.github.io/).
+* Media Sosial: [@galiewidartanto](https://www.instagram.com/galiewidartanto/).
+
+
 
 ----
 
