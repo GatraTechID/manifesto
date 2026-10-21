@@ -169,6 +169,7 @@ Baca selengkapnya dokumen [MANIFESTO ARSITEKTUR DATA & SEO ENGINEERING (SAAS ENT
 - [SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan](SEO_Industrial_Rack_Server_02_GarisBesar-Metode-Masterplan.md).
 - Dokumen 03 yaitu Dokumen Hasil Audit Tidak Disertakan.
 - [SEO_Industrial_Rack_Server_04_Rekomendasi_GBP](SEO_Industrial_Rack_Server_04_Rekomendasi_GBP.md).
+- [SEO_Industrial_Rack_Server_05_Rekomendasi_Website](SEO_Industrial_Rack_Server_05_Rekomendasi_Website.md).
 
 ----
 
@@ -210,9 +211,6 @@ Tentang akurasi jawaban SGE dan kontribusi Praktisi SEO serta Brand Bisnis, juga
 ### SEO Sektor YMYL
 * Degrasi Visibilitas dan Upaya Perbaikan. Tentang pelanggaran T.o.S YMYL dan upaya perbaikan. Status dokumen (dalam proses finalisasi klien).
 * SEO On-Fact Masterplan YMYL.
-  
-### SEO Sektor Industrial Hardware
-Entitas Distributor Rack Server. 
 
 -----
 
