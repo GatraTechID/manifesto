@@ -37,6 +37,10 @@ This whitepaper introduces the **Ground-Truth Operational Verification Architect
 ## How We May Help You:
 Local SEO, SEO Engineering, AI Visibility Infrastructure for Modern Search Engine Ecosystem.
 
+## Contact
+- Serverless Data Integration Infrastructure: [Gatra Tech ID](https://gatraekateknik.co.id/).
+- AI Visibility Infrastructure: [LokalSEO ID](https://lokalseo.id/).
+- Architect & Principal Author: [Widartanto](https://widartanto.github.io/).
 
 ## DISCLAIMER: 
 - This framework does not intend to marginalize any specific digital entity or brand.
