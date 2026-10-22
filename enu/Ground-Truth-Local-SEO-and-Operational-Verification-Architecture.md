@@ -284,6 +284,13 @@ Building visibility for modern AI Search is not about chasing transient algorith
 
 ---
 
+## Contact
+- Serverless Data Integration Infrastructure: [Gatra Tech ID](https://gatraekateknik.co.id/).
+- AI Visibility Infrastructure: [LokalSEO ID](https://lokalseo.id/).
+- Architect & Principal Author: [Widartanto](https://widartanto.github.io/).
+  
+---
+
 > *"Konten belum tentu data, data belum tentu fakta kompetensi operasional terverifikasi."*
 > — **LokalSEO ID Architectural Doctrine**
 ---
